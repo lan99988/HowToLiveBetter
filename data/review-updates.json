@@ -1,0 +1,154 @@
+{
+  "version": "2026-10-07",
+  "method": "主代理通过 gstack browse 查读以下来源；支持的是修订后的有限结论，不继承旧标题全部处方。未列出的候选只完成历史材料及引用结构检查。",
+  "items": [
+    {
+      "id": "c13-i036",
+      "status": "qualified",
+      "revised_conclusion": "水质可能受微生物污染时，将澄清的水持续滚沸 1 分钟；海拔高于约 1980 米（6500 英尺）时延长到 3 分钟。煮沸不能去除燃油、有毒化学品或放射性污染。",
+      "conditions": "适用于微生物污染风险的应急饮水处理；浑浊水先过滤或沉淀。怀疑化学污染时另找安全水源，并遵循当地卫生部门通知。",
+      "change_reason": "CDC 官方应急饮水页面直接给出高海拔延长煮沸的要求，否定原标题“不用因为海拔高多煮”；同时补上不能靠煮沸处理化学污染的边界。",
+      "sources": [{"title": "CDC：How to Make Water Safe in an Emergency", "url": "https://www.cdc.gov/water-emergency/about/index.html", "note": "页面日期 2024-09-19；本次查读 Boil 和化学污染段落。支持 1/3 分钟和煮沸的适用边界。"}]
+    },
+    {
+      "id": "c13-i035",
+      "status": "qualified",
+      "revised_conclusion": "发现蜱虫附着时尽快去除：用干净的尖头镊子贴近皮肤夹住，稳定均匀地向外拉，不扭转、不猛拽，也不用油、指甲油或热刺激逼它脱落。随后清洁皮肤和双手。",
+      "conditions": "适用于可见附着蜱虫的去除；不要挤压虫体。数日到数周内出现发热或皮疹应就医，并说明叮咬时间和地点；预防用药需另行评估。",
+      "change_reason": "CDC 蜱虫处理页面补足原条目的直接官方依据，并增加避免挤压、清洁及症状随访条件；不延伸为预防性用药处方。",
+      "sources": [{"title": "CDC：What to Do After a Tick Bite", "url": "https://www.cdc.gov/ticks/after-a-tick-bite/index.html", "note": "页面日期 2026-06-09；支持尽快移除、稳定拉出、不用热或其他物质及症状随访。"}]
+    },
+    {
+      "id": "c13-i019",
+      "status": "qualified",
+      "revised_conclusion": "怀疑误服有害化学品或药物时，立即寻求医疗帮助，不自行催吐，不擅自喂食或喂水；在安全情况下带上包装给医护人员。皮肤或眼睛化学灼伤需要立即处理，不能把所有化学品统一按“冲 15 分钟”结束。",
+      "conditions": "适用于疑似有害物质中毒；中国大陆出现严重症状或不清楚风险时联系 120。外用化学污染的冲洗方法需结合产品说明和医护指导；干粉污染先避免扩散并小心清除。",
+      "change_reason": "NHS 中毒页面支持不催吐、保留包装和立即求助；化学灼伤页面要求长时间流动水处理，不能支持原标题统一 15 分钟的终点。修订区分了误服与外部污染。",
+      "sources": [
+        {"title": "NHS：Poisoning", "url": "https://www.nhs.uk/conditions/poisoning/", "note": "最后审阅 2025-06-12；支持不催吐、不喂食饮水、携包装及医疗求助。急救号码按中国大陆本地化，英国页面使用 999。"},
+        {"title": "NHS：Acid and chemical burns", "url": "https://www.nhs.uk/conditions/acid-and-chemical-burns/", "note": "最后审阅 2024-06-05；支持去除污染衣物、处理干粉、充分流动水冲洗及紧急医疗评估。"}
+      ]
+    },
+    {
+      "id": "c13-i020",
+      "status": "qualified",
+      "revised_conclusion": "酸或有害化学品溅到皮肤、眼睛时，立即联系急救并避免施救者受污染；小心脱掉污染衣物，清除干粉后用大量流动水冲洗，不用其他化学品自行中和，也不要等冲洗完才联系医疗帮助。",
+      "conditions": "一般化学灼伤急救，具体物质按产品安全说明与医护指导处理；保护施救者，特殊与水反应物质不能机械套用普通冲洗规则。",
+      "change_reason": "NHS 明确紧急求助与立即急救并行，修订原标题“冲够时间再走”的潜在延误；保留物质差异，避免自行中和。",
+      "sources": [{"title": "NHS：Acid and chemical burns", "url": "https://www.nhs.uk/conditions/acid-and-chemical-burns/", "note": "最后审阅 2024-06-05；支持立即求助、去污染衣物和充分冲洗，不支持一律等待固定时间再求助。"}]
+    },
+    {
+      "id": "c13-i018",
+      "status": "qualified",
+      "revised_conclusion": "一氧化碳报警或怀疑中毒时，尽快到室外并寻求医疗帮助；不要在未获得专业许可前返回。头痛、恶心、胸痛、意识变化都可能出现，不能靠气味排除风险。",
+      "conditions": "适用于一氧化碳暴露风险；呼吸困难、明显意识变化或昏迷等需立即联系当地急救，中国大陆拨打 120。不要为关闭设备或救援而冒险滞留、返回。",
+      "change_reason": "NHS 官方患者页面补足撤离、医疗求助和不返回的依据；CDC 补足无色无味及症状信息。",
+      "sources": [
+        {"title": "NHS：Carbon monoxide poisoning", "url": "https://www.nhs.uk/conditions/carbon-monoxide-poisoning/", "note": "最后审阅 2025-12-16；支持到室外、就医和未经许可不返回。"},
+        {"title": "CDC：Carbon Monoxide Poisoning Basics", "url": "https://www.cdc.gov/carbon-monoxide/about/index.html", "note": "页面日期 2026-01-12；支持无色无味及常见症状。"}
+      ]
+    },
+    {
+      "id": "c13-i023",
+      "status": "qualified",
+      "revised_conclusion": "高温暴露后出现意识混乱、昏迷、抽搐或明显言语异常，应按严重热相关疾病立即联系急救，同时移到阴凉处、脱去外层衣物并快速降温。热射病可能仍大量出汗，不能靠“不出汗”才识别。",
+      "conditions": "高温作业或暴露者的危险症状警示；急救与降温并行，中国大陆急救号码为 120。具体降温方式按现场条件和急救人员指导选择。",
+      "change_reason": "NIOSH 官方热相关疾病页面明确热射病可能皮肤干燥或大量出汗，修正原标题将“不出汗”作为突出辨别线索的风险；支持急救、转移和快速降温。",
+      "sources": [{"title": "CDC / NIOSH：Heat-related Illnesses", "url": "https://www.cdc.gov/niosh/heat-stress/about/illnesses.html", "note": "页面日期 2026-03-03；职业高温情境，支持意识异常等急症线索和快速降温，不将所有头晕都诊断为热射病。"}]
+    },
+    {
+      "id": "c13-i024",
+      "status": "qualified",
+      "revised_conclusion": "高温暴露后的轻度不适或热衰竭，需要停止受热、降温和医疗评估；能安全饮水者可频繁小口饮凉水。大量出汗的热痉挛可补充水和电解质，但不能把所有中暑都套用淡盐水规则。",
+      "conditions": "仅适用于能安全吞咽的人；意识异常等严重症状按急症处理。心脏病或限钠饮食者的补盐需医疗指导，不使用盐片自行处理。",
+      "change_reason": "NIOSH 将热衰竭、热痉挛与热射病分开处置，支持凉水小口饮用及部分电解质补充，不支持原标题单凭清醒就统一喂淡盐水。",
+      "sources": [{"title": "CDC / NIOSH：Heat-related Illnesses", "url": "https://www.cdc.gov/niosh/heat-stress/about/illnesses.html", "note": "页面日期 2026-03-03；支持分型处置、小口凉水、热痉挛的补水与电解质及限钠人群求助。"}]
+    },
+    {
+      "id": "c13-i033",
+      "status": "qualified",
+      "revised_conclusion": "听到雷声就尽快进入坚固建筑或关窗的金属硬顶车辆；最后一次雷声后至少再等 30 分钟。室外没有绝对安全地点，无处躲避时远离高处、孤树、水体和导电物，不躺平。",
+      "conditions": "雷暴避险；敞篷车、简易棚和孤树不是安全避难处。原建议的“硬顶”需明确为封闭金属硬顶车辆，降低风险不等于消除室外风险。",
+      "change_reason": "美国国家气象局直接列出建筑与车辆条件、等待时间及无避难处的风险降低动作，补足原有来源映射缺口。",
+      "sources": [{"title": "美国国家气象局：Lightning Tips", "url": "https://www.weather.gov/safety/lightning-tips", "note": "本次查读官方安全提示，支持封闭金属顶车辆、最后雷声后30分钟及室外避险边界。"}]
+    },
+    {
+      "id": "c13-i031",
+      "status": "qualified",
+      "revised_conclusion": "多数地震情境优先伏地、遮挡头颈并抓牢掩护；室内避免震动中冲向出口，室外远离建筑与电线到开阔地。不能仅凭“老房门近”判断立即跑出去更安全。",
+      "conditions": "一般公众防震安全指引；具体建筑、行动能力及现场危险需当地专业预案。原则用于减少坠落物和跌倒伤害，不保证任何建筑都不会倒塌。",
+      "change_reason": "CDC 官方地震安全指引支持就地保护并区分室内外，不能支持原标题依门口距离决定撤离的简化规则。",
+      "sources": [{"title": "CDC：Safety Guidelines During an Earthquake", "url": "https://www.cdc.gov/earthquakes/safety/stay-safe-during-an-earthquake.html", "note": "页面审阅日期 2026-08-21；支持多数情境的伏地、遮挡、抓牢，以及室内外不同处置。"}]
+    },
+    {
+      "id": "c27-i008",
+      "status": "qualified",
+      "revised_conclusion": "怀疑破水后立即联系产科，说明孕周、胎动、出血及液体颜色或气味，不等到次日。是否活动、住院或采取特定体位应按产科评估；“所有人平躺垫高臀部、不走动、不洗澡”不是普遍规则。",
+      "conditions": "破水者需及时产科评估；看见或感觉脐带脱出属于急症，立即呼叫救护车并遵从专业体位指导，不碰或推回脐带。早产及异常症状不能套用普通足月等待方案。",
+      "change_reason": "NHS 支持破水立即联系产科，并明确洗澡未被证明增加感染风险；RCOG 将特殊体位用于脐带脱垂急症，纠正把特殊处理推广到全部破水者。",
+      "sources": [
+        {"title": "NHS：Signs that labour has begun", "url": "https://www.nhs.uk/pregnancy/labour-and-birth/signs-of-labour/signs-that-labour-has-begun/", "note": "最后审阅 2023-11-09；支持破水后立即联系产科及洗澡并无增加感染风险的证据。"},
+        {"title": "RCOG：Umbilical cord prolapse in late pregnancy", "url": "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/umbilical-cord-prolapse-in-late-pregnancy/", "note": "最后审阅 2025-08-04；支持脐带脱垂为急症、立即呼叫救护车与专业体位，不支持所有破水者都用同一体位。"}
+      ]
+    },
+    {
+      "id": "c19-i005",
+      "status": "qualified",
+      "revised_conclusion": "额外一个月工资的代通知金适用于劳动合同法第四十条的特定解除情形；缺少提前 30 日通知并不自动让所有解除都变成“N+1”。先核对解除依据，再分别判断经济补偿与代通知金。",
+      "conditions": "中国大陆劳动合同关系，限第四十条规定的医疗期后不能工作、培训或调岗后仍不胜任、客观情况重大变化且协商不成等情形；其他解除路径需另行分析。",
+      "change_reason": "中国政府网公布的第四十条直接限定了通知与额外工资机制的适用情形，修正原标题的普遍化；本次不判断具体案件或全部后续司法解释。",
+      "sources": [{"title": "中国政府网公报：中华人民共和国劳动合同法", "url": "https://www.gov.cn/gongbao/content/2007/content_711013.htm", "note": "查读第三十七至四十四条，重点为第四十条的特定解除情形；此链接为公布文本，具体案件还需核对适用的修订及司法解释。"}]
+    },
+    {
+      "id": "c19-i012",
+      "status": "qualified",
+      "revised_conclusion": "工作伤害需依法申请工伤认定；通勤事故的常见法定条件之一是本人不负主要责任。单位通常应在事故或诊断后 30 日内申请；单位未申请时，职工、近亲属或工会可在规定的 1 年内直接申请。",
+      "conditions": "中国大陆工伤保险条例第十四、十七条适用情境；具体通勤路线、责任认定、职业病诊断、延长或扣除申请时限等问题需结合证据和当地办理要求。",
+      "change_reason": "政府公报第十四条和第十七条补足通勤责任条件与申请主体、时限，避免将所有通勤“被撞”都视为自动工伤。",
+      "sources": [{"title": "中国政府网公报：工伤保险条例（2010修订）", "url": "https://www.gov.cn/gongbao/content/2011/content_1778064.htm", "note": "查读重新公布文本第十四条与第十七条；支持通勤责任条件、单位30日和职工等1年申请路径。"}]
+    },
+    {
+      "id": "c19-i016",
+      "status": "qualified",
+      "revised_conclusion": "工亡待遇需区分丧葬补助、供养亲属抚恤和一次性工亡补助。三者使用不同基数和资格条件；一次性工亡补助按上一年度全国城镇居民人均可支配收入的 20 倍计算，不能照搬往年的金额。",
+      "conditions": "中国大陆、已依法认定符合工亡待遇条件的职工近亲属。丧葬补助基数按统筹地区，抚恤金需符合供养资格；本次不列2026年度具体金额。",
+      "change_reason": "政府公报重新公布的第三十九条直接列明三类待遇及不同计算基数，补足旧记录待核实的法条依据，保留年度金额待具体核算的边界。",
+      "sources": [{"title": "中国政府网公报：工伤保险条例（第三十九条）", "url": "https://www.gov.cn/gongbao/content/2011/content_1778064.htm", "note": "查读重新公布的第三十九条；支持三类待遇、供养条件与20倍年度计算公式，不支持固定的2026实付金额。"}]
+    },
+    {
+      "id": "c32-i008",
+      "status": "qualified",
+      "revised_conclusion": "截至本次查读，英国学生及其家属的医疗附加费年费为 £776；实际总额按获批签证长度和申请地点计算，不能直接用课程年数相乘，部分短期情形另有规则。",
+      "conditions": "英国 IHS 适用的学生签证及家属；签证可能比课程更长，不足一年的计费分档不同，金额随政策调整。签证申请费是另一笔费用。",
+      "change_reason": "英国政府现行费用页面确认£776，同时明确签证长度和半年计费规则。修订保留金额而去除机械按课程年数预算的风险。",
+      "sources": [{"title": "GOV.UK：How much you have to pay for the healthcare surcharge", "url": "https://www.gov.uk/healthcare-immigration-application/how-much-pay", "note": "本次查读学生及家属£776/年、签证长度及不足一年/半年情形；支付流程另由申请系统确认。"}]
+    }
+  ],
+  "unresolved_updates": [
+    {
+      "id": "c32-i002",
+      "status": "uncertain",
+      "revised_conclusion": "F-1 停留期与毕业宽限期属于动态规则。本次未取得可访问的现行官方条文及法院命令，不能依据旧摘要中的“新规已生效、最长四年、30天”直接安排行程，应向学校国际学生办公室核对当前适用规则。",
+      "conditions": "美国 F-1 学生；具体入境记录、身份维持、毕业和实践授权均会影响适用规则，不能把单一数字套到所有人。",
+      "change_reason": "上游新快照对同编号条目已有不同的时效说明，说明旧摘要存在过时风险；本次访问 Federal Register 被反自动化验证拦截，未取得规则正文与现行法院命令，故不把上游新说法直接当作已核验事实。"
+    },
+    {
+      "id": "c05-i034",
+      "status": "uncertain",
+      "revised_conclusion": "购买珠宝玉石时应核对检测机构、具体检测项目、报告真实性与名称标准。旧记录关于“只认CMA”和“2026一单一库”的绝对结论本次尚未补足可直接追溯的现行依据，保留待核实。",
+      "conditions": "中国大陆珠宝玉石检测报告；资质与项目适用范围需查询发证及监管部门，标志本身不能排除伪造。",
+      "change_reason": "上游与本仓库旧摘要对同条建议的制度适用说明不一致；本次仅完成引用结构核查，未完成2026现行规定及项目范围核验，不沿用肯定的错误/过时标签作新的事实判断。"
+    },
+    {
+      "id": "c07-i009",
+      "status": "uncertain",
+      "revised_conclusion": "居民医保缴费与困难人员资助应查询参保地的年度通知。旧材料中的400元属于特定年度的最低个人缴费标准，不能当作全国永久统一价格；本次未核实全部2026地区细则。",
+      "conditions": "中国大陆城乡居民医保；缴费年份、地区、困难人员身份及等待期安排需分别确认。",
+      "change_reason": "已查读国家医保局2024政策解读，确认400元为当年不低于标准；2026政府工作报告转载页面仅列财政补助提高24元，不能据此验证2026个人缴费、全部困难资助及等待期规则，整条仍保留未解决。",
+      "sources": [
+        {"title": "国家医保局：2024年城乡居民医保通知政策解读", "url": "https://www.nhsa.gov.cn/art/2024/8/26/art_105_13634.html", "note": "发布日期2024-08-26；只支持当年最低缴费口径，不是2026全国统一金额依据。"},
+        {"title": "国家医保局：2026年政府工作报告提到这些医保工作", "url": "https://www.nhsa.gov.cn/art/2026/3/5/art_14_19809.html", "note": "发布日期2026-03-05；列出财政补助提高24元，没有给出整条建议所需的全部地区及个人缴费规则。"}
+      ]
+    }
+  ]
+}

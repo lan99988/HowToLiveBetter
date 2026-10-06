@@ -1,0 +1,153 @@
+<!doctype html>
+<!--
+MIT License — Copyright (c) 2026 lan99988
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+Handbook content: CC BY 4.0, attribution and modification notes below.
+-->
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="32章、552条生活建议与核验说明。可离线阅读、搜索和筛选的单文件手册。">
+<title>更好生活 · 离线手册</title>
+<style>
+:root{color-scheme:light;--paper:#faf9f5;--ink:#24352e;--muted:#58665e;--line:#d5ded4;--accent:#256342;--white:#fff;--soft:#edf2e9}
+*{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:1.5rem}body{margin:0;background:var(--paper);color:var(--ink);font:17px/1.85 system-ui,-apple-system,"Segoe UI","Microsoft YaHei",sans-serif;overflow-wrap:anywhere}a{color:var(--accent);text-underline-offset:3px}button,input,select,textarea{font:inherit;color:inherit}button,select{cursor:pointer}button{background:var(--white);border:1px solid var(--line);border-radius:7px;padding:.35rem .8rem}button:hover{background:var(--soft)}:focus-visible{outline:3px solid #407dba;outline-offset:3px}[hidden]{display:none!important}.skip{position:absolute;top:-100px;left:16px;background:white;padding:12px;z-index:10}.skip:focus{top:12px}.layout{max-width:1440px;margin:auto;display:grid;grid-template-columns:255px minmax(0,1fr);gap:48px;padding:40px 44px}.sidebar{position:sticky;top:28px;height:calc(100vh - 56px);overflow:auto;padding-right:10px}.brand{font-size:20px;font-weight:750;letter-spacing:.08em}.eyebrow{font-size:12px;letter-spacing:.16em;font-weight:650;color:var(--accent);text-transform:uppercase}.side-note{font-size:13px;color:var(--muted);margin:8px 0 24px}.toc-title{font-weight:650;margin-bottom:12px}.toc{list-style:none;padding:0;margin:0}.toc a{display:flex;gap:9px;text-decoration:none;font-size:14px;padding:6px 0;color:var(--muted)}.toc a:hover{color:var(--accent)}.toc-num{font-size:12px;min-width:22px;color:var(--accent);padding-top:2px}.side-footer{font-size:12px;border-top:1px solid var(--line);margin-top:22px;padding-top:14px;color:var(--muted)}main{min-width:0;max-width:930px}.masthead{border-top:4px solid var(--accent);padding:26px 0 30px}.masthead h1{font-size:clamp(32px,4.3vw,52px);letter-spacing:-.03em;line-height:1.3;margin:14px 0}.lead{font-size:19px;max-width:680px;margin:12px 0}.intro{font-size:14px;color:var(--muted);margin:16px 0 0}.version{display:flex;gap:14px;flex-wrap:wrap;color:var(--muted);font-size:13px}.scope{padding:18px 20px;background:var(--soft);border-left:3px solid var(--accent);font-size:14px;margin:0 0 26px}.scope p{margin:5px 0}.controls{padding:22px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}.search-label{font-weight:650;font-size:15px}.search{display:block;width:100%;background:white;border:1px solid #a4b6a9;border-radius:8px;padding:10px 13px;margin:8px 0 15px}.filters{display:flex;gap:14px;flex-wrap:wrap;align-items:flex-end}.filter{display:flex;flex-direction:column;gap:4px;font-size:13px}.filter select{background:white;border:1px solid var(--line);border-radius:7px;padding:6px 9px;max-width:100%;min-height:40px}.filters button{min-height:40px}.results{font-size:14px;color:var(--muted);margin:14px 0 0}.legend{font-size:13px;color:var(--muted);margin-top:18px}.legend summary{cursor:pointer}.legend p{margin:8px 0}.mobile-toc{display:none}.chapter{margin-top:48px}.chapter-head{display:flex;align-items:baseline;gap:14px;padding-bottom:12px;border-bottom:2px solid var(--ink)}.chapter-number{font-size:12px;color:var(--accent);letter-spacing:.12em}.chapter h2{font-size:27px;line-height:1.4;margin:0;font-weight:700}.chapter-count{margin-left:auto;font-size:12px;color:var(--muted);white-space:nowrap}.entry{padding:27px 0;border-bottom:1px solid var(--line);scroll-margin-top:20px}.entry-meta{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:9px;font-size:12px;color:var(--muted)}.entry-id{font-variant-numeric:tabular-nums;letter-spacing:.05em;text-decoration:none}.status{padding:1px 8px;border:1px solid var(--line);border-radius:20px;background:#fff}.status.uncertain{color:#79430b;background:#fff3e5;border-color:#e9cda8}.status.incorrect{color:#93372f;background:#fff0ed;border-color:#e7c1b8}.status.disputed{color:#225c85;background:#edf6fc;border-color:#bbd3e4}.status.qualified{color:#655520;background:#fffbe9;border-color:#dfd4a7}.status.trusted{color:#276346;background:#eef7ef;border-color:#b7d1bc}.entry h3{font-size:20px;font-weight:600;line-height:1.85;margin:0 0 12px}.condition{font-size:14px;color:var(--muted);margin:8px 0}.review-note{font-size:13px;border-left:2px solid #c6ae7f;padding-left:12px;margin:12px 0;color:#665130}.entry-actions{display:flex;align-items:center;gap:16px;flex-wrap:wrap;margin-top:12px}.entry-actions button{font-size:13px}.entry-details{font-size:14px;margin:14px 0 0}.entry-details summary{cursor:pointer;font-weight:600;color:var(--accent)}.entry-details[open] summary{margin-bottom:16px}.detail-body{background:white;padding:18px 22px;border:1px solid var(--line);border-radius:8px}.detail-body h4{font-size:14px;margin:20px 0 5px}.detail-body h4:first-child{margin-top:0}.detail-body p{margin:5px 0}.evidence{margin:5px 0;padding-left:22px}.evidence-note{display:block;font-size:13px;color:var(--muted)}.dates{font-size:12px;color:var(--muted)}.empty{padding:45px 0;text-align:center}.footer{font-size:13px;color:var(--muted);margin-top:55px;padding:24px 0;border-top:2px solid var(--ink)}.footer p{margin:10px 0}.top-link{display:inline-block;margin-top:15px}.toast{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);max-width:90vw;background:var(--ink);color:white;border-radius:8px;padding:8px 18px;font-size:14px;z-index:20}.toast:empty{display:none}dialog{border:1px solid var(--line);border-radius:12px;max-width:640px;width:calc(100% - 32px);padding:22px;background:white;color:var(--ink)}dialog::backdrop{background:#172c2380}dialog textarea{width:100%;height:210px;resize:vertical;font-size:14px;padding:10px;border:1px solid var(--line)}dialog h2{font-size:21px;margin-top:0}.dialog-actions{display:flex;justify-content:flex-end;gap:12px;margin-top:14px}.no-js{padding:20px;background:#fff1da}
+@media(max-width:960px){.layout{grid-template-columns:205px minmax(0,1fr);gap:28px;padding:28px 24px}.brand{font-size:18px}.toc a{font-size:13px}}
+@media(max-width:720px){body{font-size:16px}.layout{display:block;padding:20px 18px}.sidebar{display:none}.masthead{padding-top:20px;padding-bottom:24px}.masthead h1{font-size:32px}.lead{font-size:17px}.mobile-toc{display:block;border:1px solid var(--line);border-radius:8px;padding:10px 14px;margin:20px 0}.mobile-toc summary{cursor:pointer;font-weight:600;font-size:14px}.mobile-toc .toc{margin-top:12px;columns:1}.filters{gap:10px}.filter{flex:1 1 140px;min-width:0}.filter select{width:100%}.chapter{margin-top:36px}.chapter h2{font-size:23px}.chapter-head{gap:8px;flex-wrap:wrap}.chapter-count{font-size:11px}.entry h3{font-size:18px}.detail-body{padding:14px}.scope{padding:13px 15px}.entry{padding:22px 0}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+@media print{body{font:11pt/1.6 serif;background:white;color:black}.layout{display:block;padding:0;max-width:none}main{max-width:none}.sidebar,.controls,.mobile-toc,.entry-actions,.skip,.top-link,.toast,dialog{display:none!important}.masthead{padding:12px 0}.masthead h1{font-size:25pt}.scope{background:white;border:1px solid #aaa}.chapter{margin-top:20px}.chapter-head{break-after:avoid}.entry{padding:14px 0}.entry h3{font-size:13pt}.entry-meta,.condition,.review-note,.entry-details,.dates{font-size:10pt}.entry-details summary{display:none}.detail-body{background:white;padding:8px 0;border:0}.detail-body a[href]::after{content:" (" attr(href) ")";font-size:8pt;overflow-wrap:anywhere}.status{color:black!important;background:white!important}.footer a[href]::after{content:" (" attr(href) ")"}.footer{font-size:9pt}.entry,.detail-body{break-inside:auto}}
+</style>
+</head>
+<body>
+<a href="#content" class="skip">跳到正文</a>
+<div class="layout" id="top">
+<aside class="sidebar" aria-label="章节目录">
+  <div class="eyebrow">HowToLiveBetter</div><div class="brand">更好生活手册</div>
+  <p class="side-note">把生活建议与证据放在一起。<br>随时查阅，谨慎行动。</p>
+  <div class="toc-title">全书目录</div><nav><ol class="toc" id="desktop-toc"></ol></nav>
+  <div class="side-footer">单文件 · 离线阅读<br>内容 CC BY 4.0 · 代码 MIT</div>
+</aside>
+<main id="content">
+  <header class="masthead">
+    <div class="eyebrow">A practical handbook · 独立核验版</div>
+    <h1>让生活过得更好一点。</h1>
+    <p class="lead">健康、家庭、工作与日常选择。<br>32 章，552 条建议，把结论、条件与证据一起读。</p>
+    <p class="version"><span id="version"></span><span>无需注册</span><span>阅读与检索可离线</span></p>
+    <p class="intro">收到文件后，用浏览器打开即可阅读。手机请先下载，再选择浏览器打开；聊天软件的预览可能无法运行搜索。外部证据链接需要联网。</p>
+  </header>
+  <section class="scope" aria-label="内容核验范围"><p><strong>这份手册怎样使用</strong></p><p id="review-overview"></p><p>版本日期不代表全库重新核验。未复核条目保留历史日期；“待核实”表示证据仍有缺口。先读修订结论与条件，再展开原建议及证据。涉及医疗、法律和政策时，请结合个人情况与当地现行规则。</p></section>
+  <section class="controls" aria-label="搜索和筛选">
+    <label class="search-label" for="search">查找你现在关心的事</label>
+    <input class="search" id="search" type="search" placeholder="例如：睡眠、租房、医保、孩子……" autocomplete="off" aria-describedby="search-help">
+    <div class="filters">
+      <label class="filter" for="chapter-filter">章节<select id="chapter-filter"><option value="">全部章节</option></select></label>
+      <label class="filter" for="status-filter">核验状态<select id="status-filter"><option value="">全部状态</option></select></label>
+      <button id="clear" type="button">清空筛选</button>
+      <button id="print" type="button">打印整本 / 保存 PDF</button>
+    </div>
+    <p class="results" id="result-count" role="status" aria-live="polite"></p>
+    <details class="legend"><summary>核验状态怎么理解？</summary><p id="legend"></p><p id="search-help">搜索标题、修订结论、原建议、条件和核验摘要。多个空格分隔的关键词需要同时匹配。原始 A/B/C 只表示原作者分级。</p><p>“核心结论有支持”也不表示适用于所有人。历史标记与本次取得的证据分开显示。</p></details>
+  </section>
+  <details class="mobile-toc"><summary>展开全书目录 · 32 章</summary><nav aria-label="手机章节目录"><ol class="toc" id="mobile-toc"></ol></nav></details>
+  <noscript><p class="no-js">请使用支持 JavaScript 的浏览器打开此文件，以显示完整正文和搜索功能；本文件内已包含全部内容，不需要联网加载。</p></noscript>
+  <div class="empty" id="empty" hidden><strong>没有找到匹配条目。</strong><p>试试更短的关键词，或清空章节与状态筛选。</p><button id="empty-clear" type="button">显示全部内容</button></div>
+  <div id="chapters"></div>
+  <footer class="footer"><p><strong>来源与传播许可</strong></p><p>本手册基于 <a href="https://github.com/eternity4719/HowToLiveBetter" target="_blank" rel="noopener noreferrer">eternity4719/HowToLiveBetter</a>，由 <a href="https://github.com/lan99988/HowToLiveBetter" target="_blank" rel="noopener noreferrer">lan99988/HowToLiveBetter</a> 整理并独立核验。保留原建议以供对照；修订与复核结果均注明边界。</p><p>手册内容以 <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer">CC BY 4.0</a> 开放：分享或改编时请署名、保留许可并说明修改。新增网页代码采用 MIT，Copyright © 2026 lan99988；允许使用、复制、修改、合并、发布、分发、再许可及销售，须保留版权和许可声明。代码按原样提供，无任何明示或暗示担保，作者不承担相关责任。第三方论文、法规及引用材料保留各自权利，不因收录重新授权。</p><p>完整复核记录、生成方式和代码许可文本见项目仓库。本文件不保存个人阅读记录，也不会上传搜索内容。</p><a class="top-link" href="#top">回到顶部 ↑</a></footer>
+</main>
+</div>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<dialog id="copy-dialog" aria-labelledby="copy-title"><h2 id="copy-title">复制条目摘要</h2><p>浏览器未允许自动复制。请选中下方文字复制，并与手册文件一起分享。</p><label for="copy-text">分享文本</label><textarea id="copy-text" readonly></textarea><div class="dialog-actions"><button id="select-copy" type="button">选中全部文字</button><button id="close-copy" type="button">关闭</button></div></dialog>
+<script id="handbook-data" type="application/json">@@HANDBOOK_DATA@@</script>
+<script>
+'use strict';
+(() => {
+  const data = JSON.parse(document.getElementById('handbook-data').textContent);
+  const labels = {trusted:['✅','核心结论有支持'],qualified:['🟡','需要限定条件'],uncertain:['🟠','证据不足 / 待核实'],disputed:['🔵','存在争议'],incorrect:['🔴','错误 / 过时'],experience:['⚪','经验建议']};
+  const $ = id => document.getElementById(id);
+  const node = (tag, text, cls) => {const e=document.createElement(tag); if(text!==undefined)e.textContent=text;if(cls)e.className=cls;return e;};
+  const link = (text,url) => {const a=node('a',text);if(!url.startsWith('#')&&!/^https?:\/\//.test(url))throw new Error('Unsupported link scheme');a.href=url;if(/^https?:\/\//.test(url)){a.target='_blank';a.rel='noopener noreferrer';}return a;};
+  const entries = [], chapterNodes = [], index = new Map();
+  const normalized = s => String(s || '').toLocaleLowerCase().normalize('NFKC');
+  $('version').textContent='版本 '+data.version;
+  const reviewed=data.items.filter(r=>r.review_outcome==='verified').length;
+  const pending=data.items.filter(r=>r.review_outcome==='unresolved'||r.review_outcome==='contradicted').length;
+  $('review-overview').textContent=`本次取得一手支持并修订 ${reviewed} 条；仍有 ${pending} 条重点条目未取得整条充分证据。其他内容沿用历史核验。`;
+  Object.entries(labels).forEach(([code,[icon,label]])=>{const o=node('option',icon+' '+label);o.value=code;$('status-filter').append(o);});
+  $('legend').textContent=Object.values(labels).map(([icon,label])=>icon+' '+label).join('；')+'。';
+  let copyFocus=null, timer;
+  function toast(text){$('toast').textContent=text;clearTimeout(timer);timer=setTimeout(()=>{$('toast').textContent='';},4500);}
+  async function copy(r,button){
+    const text=`【更好生活手册 ${r.id}】\n结论：${r.revised_conclusion}\n适用条件：${r.conditions || '见核验摘要，不能自动外推。'}\n状态：${labels[r.status][1]}\n历史核验：${r.last_verified}\n本次检查：${r.checked_at || '未重新核验'}\n本次核验成功：${r.review_outcome==='verified'?r.verified_at:'无新记录'}\n来源：lan99988/HowToLiveBetter（基于 eternity4719/HowToLiveBetter），内容 CC BY 4.0\n请与离线HTML文件一起分享，在文件内搜索编号 ${r.id} 定位。`;
+    try{if(!navigator.clipboard || !navigator.clipboard.writeText)throw new Error('manual');await navigator.clipboard.writeText(text);toast('已复制。请与手册文件一起分享。');}
+    catch{copyFocus=button;$('copy-text').value=text;if(typeof $('copy-dialog').showModal==='function')$('copy-dialog').showModal();else{$('copy-dialog').setAttribute('open','');$('copy-dialog').style.position='fixed';$('copy-dialog').style.top='15%';$('copy-dialog').style.zIndex='30';}$('copy-text').focus();$('copy-text').select();}
+  }
+  function closeCopy(){if(typeof $('copy-dialog').close==='function')$('copy-dialog').close();else $('copy-dialog').removeAttribute('open');if(copyFocus)copyFocus.focus();}
+  $('close-copy').addEventListener('click',closeCopy);
+  $('select-copy').addEventListener('click',()=>{$('copy-text').focus();$('copy-text').select();});
+  $('copy-dialog').addEventListener('cancel',()=>{if(copyFocus)copyFocus.focus();});
+  function paragraph(body,heading,text){body.append(node('h4',heading),node('p',text));}
+  data.chapters.forEach(ch=>{
+    const opt=node('option',`${ch.number}. ${ch.title}`);opt.value=String(ch.number);$('chapter-filter').append(opt);
+    ['desktop-toc','mobile-toc'].forEach(id=>{const li=node('li');const a=link('',`#chapter-${String(ch.number).padStart(2,'0')}`);a.append(node('span',String(ch.number).padStart(2,'0'),'toc-num'),node('span',ch.title));li.append(a);$(id).append(li);});
+    const section=node('section',undefined,'chapter');section.id=`chapter-${String(ch.number).padStart(2,'0')}`;
+    const head=node('div',undefined,'chapter-head');const h2=node('h2',ch.title);h2.id=section.id+'-title';section.setAttribute('aria-labelledby',h2.id);const count=node('span','','chapter-count');head.append(node('span',`CHAPTER ${String(ch.number).padStart(2,'0')}`,'chapter-number'),h2,count);section.append(head);
+    const children=[];
+    data.items.filter(r=>r.chapter===ch.number).forEach(r=>{
+      const article=node('article',undefined,'entry');article.id=r.id;
+      const meta=node('div',undefined,'entry-meta');const idLink=link(`第 ${r.chapter} 章 · ${r.item} / ${r.id}`,`#${r.id}`);idLink.className='entry-id';meta.append(idLink,node('span',labels[r.status].join(' '),'status '+r.status),node('span',r.review_outcome==='verified'?'本次取得一手支持':'历史内容 / 请留意复核说明'));
+      const h3=node('h3',r.revised_conclusion);h3.id=r.id+'-title';article.setAttribute('aria-labelledby',h3.id);article.append(meta,h3);
+      article.append(node('p','适用条件：'+(r.conditions || '历史摘要未单独列出适用条件；请展开阅读，不能自动外推。'),'condition'));
+      article.append(node('p',`历史核验 ${r.last_verified} · 本次检查 ${r.checked_at || '未重新核验'} · 本次核验成功 ${r.review_outcome==='verified'?r.verified_at:'无新记录'}`,'dates'));
+      if(r.review_outcome==='unresolved'||r.review_outcome==='contradicted')article.append(node('p',r.change_reason,'review-note'));
+      const actions=node('div',undefined,'entry-actions');const copyButton=node('button','复制分享摘要');copyButton.type='button';copyButton.setAttribute('aria-label',`复制 ${r.id} 的分享摘要`);copyButton.addEventListener('click',()=>copy(r,copyButton));actions.append(copyButton);article.append(actions);
+      const detail=node('details',undefined,'entry-details');const summary=node('summary','查看原建议、核验摘要与证据');summary.setAttribute('aria-label',`${r.id}：查看原建议、核验摘要与证据`);const body=node('div',undefined,'detail-body');
+      paragraph(body,'原建议（保留供对照）',r.original_title);
+      paragraph(body,'原等级与历史核验说明',`${r.original_grade} · ${r.audit_status}`);
+      paragraph(body,'历史核验摘要',r.summary);
+      paragraph(body,'本次复核与修改理由',r.change_reason || '本条没有重新核验，保留历史摘要及日期。');
+      body.append(node('h4','证据与来源'));
+      if(r.sources.length){const ul=node('ul',undefined,'evidence');r.sources.forEach(s=>{const li=node('li');li.append(link(s.title,s.url));if(s.note)li.append(node('span',s.note,'evidence-note'));ul.append(li);});body.append(ul);}else body.append(node('p','历史记录未附可逐条追溯的一手证据链接；本次未补足。'));
+      body.append(node('h4','上游引用入口（未代表本次已核实）'),node('p',r.upstream_mapping_note || '未映射上游引用。'));
+      if(r.original_source_urls && r.original_source_urls.length){const ul=node('ul',undefined,'evidence');r.original_source_urls.forEach((url,i)=>{const li=node('li');li.append(link(`上游引用 ${i+1} · ${new URL(url).hostname}`,url));ul.append(li);});body.append(ul);}else body.append(node('p','此编号尚未映射到上游引用入口。'));
+      paragraph(body,'研究及来源字段（历史记录）',`研究类型：${r.study_design}；来源标记：${r.source_status}；数字检查：${r.numeric_check}；因果强度：${r.causal_strength}；人群匹配：${r.population_match}。这些字段是旧记录，不代表本次已重新核实。`);
+      detail.append(summary,body);article.append(detail);section.append(article);
+      const row={r,element:article,detail,text:normalized([r.id,r.title,r.original_title,r.revised_conclusion,r.conditions,r.summary,r.audit_status,r.change_reason,ch.title].join(' '))};entries.push(row);children.push(row);index.set(r.id,row);
+    });
+    $('chapters').append(section);chapterNodes.push({section,count,children});
+  });
+  function filter(){const words=normalized($('search').value).trim().split(/\s+/).filter(Boolean);const chapter=$('chapter-filter').value;const status=$('status-filter').value;let total=0;
+    entries.forEach(row=>{const match=(!chapter||String(row.r.chapter)===chapter)&&(!status||row.r.status===status)&&words.every(w=>row.text.includes(w));row.element.hidden=!match;if(match)total++;});
+    chapterNodes.forEach(ch=>{const n=ch.children.filter(r=>!r.element.hidden).length;ch.section.hidden=!n;ch.count.textContent=`${n} 条`;});
+    $('result-count').textContent=`显示 ${total} / ${data.items.length} 条 · ${chapterNodes.filter(ch=>!ch.section.hidden).length} / 32 章`;$('empty').hidden=total!==0;
+  }
+  function clear(){ $('search').value='';$('chapter-filter').value='';$('status-filter').value='';filter(); }
+  $('search').addEventListener('input',filter);$('chapter-filter').addEventListener('change',filter);$('status-filter').addEventListener('change',filter);
+  $('clear').addEventListener('click',()=>{clear();$('search').focus();});$('empty-clear').addEventListener('click',()=>{clear();$('search').focus();});
+  function navigate(){const id=location.hash.slice(1);const row=index.get(id);if(row){if(row.element.hidden)clear();row.detail.open=true;row.element.scrollIntoView({block:'start'});}
+    else if(/^chapter-\d{2}$/.test(id)){const target=document.getElementById(id);if(target){if(target.hidden)clear();target.scrollIntoView({block:'start'});}}
+    document.querySelector('.mobile-toc').open=false;
+  }
+  document.querySelectorAll('.toc a,.entry-id').forEach(a=>a.addEventListener('click',()=>{if(a.hash===location.hash)setTimeout(navigate,0);}));
+  window.addEventListener('hashchange',navigate);filter();if(location.hash)setTimeout(navigate,0);
+  let printState=[];function preparePrint(){if(printState.length)return;printState=entries.map(row=>row.detail.open);entries.forEach(row=>{row.detail.open=true;row.element.hidden=false;});chapterNodes.forEach(ch=>{ch.section.hidden=false;ch.count.textContent=`${ch.children.length} 条`;});$('empty').hidden=true;}
+  window.addEventListener('beforeprint',preparePrint);window.addEventListener('afterprint',()=>{if(!printState.length)return;entries.forEach((row,i)=>{row.detail.open=!!printState[i];});printState=[];filter();});
+  $('print').addEventListener('click',()=>{preparePrint();window.print();});
+})();
+</script>
+</body>
+</html>

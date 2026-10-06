@@ -1,0 +1,2470 @@
+{
+  "version": "2026-10-07",
+  "items": [
+    {
+      "id": "c01-i004",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「法规」"
+      ],
+      "original_title": "燃气软管和灶具到期就换，不自己改管道",
+      "original_status": "✅ 法规事实已核验"
+    },
+    {
+      "id": "c01-i005",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「不成立」"
+      ],
+      "original_title": "不采、不买、不吃野生蘑菇",
+      "original_status": "✅ 统计事实已核验；“任何土办法都不成立”需另列来源"
+    },
+    {
+      "id": "c01-i006",
+      "reasons": [
+        "potentially_overstated_or_incomplete: 命中表述「标题写得比法条更宽」",
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「法规、规定」"
+      ],
+      "original_title": "电动自行车不推进楼道、不在高层建筑公共疏散区域充电",
+      "original_status": "🟡 法规核心正确，但标题写得比法条更宽"
+    },
+    {
+      "id": "c01-i007",
+      "reasons": [
+        "potentially_overstated_or_incomplete: 命中表述「标题过度简化」"
+      ],
+      "original_title": "量血压，高了就吃药降到达标",
+      "original_status": "🟡 基本可信但标题过度简化"
+    },
+    {
+      "id": "c01-i017",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「证据不足」"
+      ],
+      "original_title": "40–74 岁女性每两年一次乳腺钼靶",
+      "original_status": "✅ 已核验可信（按 USPSTF）"
+    },
+    {
+      "id": "c01-i019",
+      "reasons": [
+        "potentially_overstated_or_incomplete: 命中表述「证据映射不严谨」"
+      ],
+      "original_title": "45–50 岁起做结直肠癌筛查，FIT 或肠镜",
+      "original_status": "🟡 基本可信但证据映射不严谨"
+    },
+    {
+      "id": "c01-i020",
+      "reasons": [
+        "potentially_overstated_or_incomplete: 命中表述「不能直接外推」"
+      ],
+      "original_title": "有心血管病的人和老年人每年打流感疫苗",
+      "original_status": "🟡 对心梗/高危冠心病人群可信，对“所有老人降低死亡”证据较弱"
+    },
+    {
+      "id": "c01-i029",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「地方、政策、更新、法规」"
+      ],
+      "original_title": "有过高危行为就去查一次，疾控中心免费、结果保密",
+      "original_status": "🟡 核心方向可信但包含多类证据"
+    },
+    {
+      "id": "c01-i032",
+      "reasons": [
+        "potentially_overstated_or_incomplete: 命中表述「外推明显」"
+      ],
+      "original_title": "高处坠落即使存活也常伴严重创伤和长期康复",
+      "original_status": "🟡 数据本身核对一致，但人群和叙事外推明显"
+    },
+    {
+      "id": "c02-i006",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「证据不足、🟠」"
+      ],
+      "original_title": "认真刷牙、清牙缝、缺牙及时补",
+      "original_status": "🟠 证据不足以支持“降低死亡”行动处方"
+    },
+    {
+      "id": "c02-i011",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🟠」"
+      ],
+      "original_title": "每周打三次球拍类运动，每次 45 分钟",
+      "original_status": "🟠 标题比证据更具体"
+    },
+    {
+      "id": "c02-i012",
+      "reasons": [
+        "potentially_overstated_or_incomplete: 命中表述「不能直接外推」"
+      ],
+      "original_title": "每天攒四五分钟零碎剧烈活动",
+      "original_status": "🟡 研究真实但为观察性"
+    },
+    {
+      "id": "c02-i016",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「有争议」"
+      ],
+      "original_title": "少喝或不喝酒",
+      "original_status": "🟡 总体方向可信、精确阈值仍有争议"
+    },
+    {
+      "id": "c02-i018",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🟠」"
+      ],
+      "original_title": "把一部分红肉换成鱼和禽肉",
+      "original_status": "🟠 所引研究没有真正做“替换试验”"
+    },
+    {
+      "id": "c02-i020",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「证据不足、🟠」"
+      ],
+      "original_title": "每周喝三次以上茶",
+      "original_status": "🟠 具体频率处方证据不足"
+    },
+    {
+      "id": "c02-i024",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「证据不足、🟠」"
+      ],
+      "original_title": "不喝甜味饮料，无糖的也算",
+      "original_status": "🟠 对“无糖饮料也应不喝”的因果证据不足"
+    },
+    {
+      "id": "c02-i027",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🟠」"
+      ],
+      "original_title": "白天出门晒太阳，别整天不见光",
+      "original_status": "🟠 瑞典 cohort 不足以支持普遍“晒太阳延寿”"
+    },
+    {
+      "id": "c02-i028",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「不成立、🔵」"
+      ],
+      "original_title": "BMI 控制在 20–25，超重就减",
+      "original_status": "🔵 关联较稳定，但“减重=获得同等死亡收益”不成立"
+    },
+    {
+      "id": "c02-i029",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「证据不足、🟠」"
+      ],
+      "original_title": "每周吃四次以上辣椒",
+      "original_status": "🟠 证据不足以形成建议"
+    },
+    {
+      "id": "c02-i030",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🟠」"
+      ],
+      "original_title": "每天喝一两份奶或酸奶",
+      "original_status": "🟠 主要来自 PURE cohort"
+    },
+    {
+      "id": "c02-i031",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🔵」"
+      ],
+      "original_title": "鸡蛋不用戒，但别每天三四个",
+      "original_status": "🔵 结论方向谨慎但证据冲突"
+    },
+    {
+      "id": "c02-i032",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🟠」"
+      ],
+      "original_title": "有条件就泡澡",
+      "original_status": "🟠 不足以作为延寿建议"
+    },
+    {
+      "id": "c03-i002",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🟠」"
+      ],
+      "original_title": "固定起床时间，周末也一样",
+      "original_status": "🟠 证据较弱"
+    },
+    {
+      "id": "c03-i006",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「错误」"
+      ],
+      "original_title": "深度工作时挡住哪怕几秒的打断",
+      "original_status": "🟡 实验支持错误和压力上升"
+    },
+    {
+      "id": "c03-i010",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🟠」",
+        "potentially_overstated_or_incomplete: 命中表述「外推明显」"
+      ],
+      "original_title": "深夜不做重大决定、不发要紧消息",
+      "original_status": "🟠 外推明显"
+    },
+    {
+      "id": "c03-i012",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🟠」"
+      ],
+      "original_title": "开放式办公室用耳塞/找安静房",
+      "original_status": "🟠 噪音损害实验支持，但“耳塞”未直接测试"
+    },
+    {
+      "id": "c03-i013",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🟠」"
+      ],
+      "original_title": "每周工作不要超过 49 小时",
+      "original_status": "🟠 “49 小时”不应作为现代知识工作的硬阈值"
+    },
+    {
+      "id": "c03-i014",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🟠」"
+      ],
+      "original_title": "反复回想糟心事时换个需要动手的活",
+      "original_status": "🟠 反刍有害可信，“换个动手活”是作者推论"
+    },
+    {
+      "id": "c03-i015",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🟠」"
+      ],
+      "original_title": "把“事情肯定会更糟”当症状看",
+      "original_status": "🟠 悲观与死亡关联不等于纠正想法能延寿"
+    },
+    {
+      "id": "c03-i020",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「法规」"
+      ],
+      "original_title": "和机构打交道靠文书和期限，不靠情绪",
+      "original_status": "⚪ 规则部分可核验，心理结论属经验"
+    },
+    {
+      "id": "c03-i022",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🟠」"
+      ],
+      "original_title": "觉得所有人看到你出丑时，把估计除以二",
+      "original_status": "🟠 现象可信，“除以二”不是通用算法"
+    },
+    {
+      "id": "c04-i002",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🟠」"
+      ],
+      "original_title": "开工前写下退出条件",
+      "original_status": "🟠 概念有依据，但“退出条件”不是该 meta 的直接标准化干预"
+    },
+    {
+      "id": "c04-i006",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🟠」"
+      ],
+      "original_title": "砍会议数量，能异步就不开会",
+      "original_status": "🟠 前半有疲劳关联，后半缺直接比较"
+    },
+    {
+      "id": "c04-i008",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🟠」"
+      ],
+      "original_title": "没外部截止就自己定日期",
+      "original_status": "🟠 原研究验证的是外部截止，不是自设截止"
+    },
+    {
+      "id": "c05-i002",
+      "reasons": [
+        "dynamic_policy_number: 动态政策主题章节出现日期、金额、比例或期限数字「12万、2027 年、400元、6月」",
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「政策、每年、现行」"
+      ],
+      "original_title": "每年3–6月做个税汇算",
+      "original_status": "✅ 现行政策已核验"
+    },
+    {
+      "id": "c05-i003",
+      "reasons": [
+        "dynamic_policy_number: 动态政策主题章节出现日期、金额、比例或期限数字「2026-09」",
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「各地、地方」"
+      ],
+      "original_title": "公积金可用于租房、装修、物业费",
+      "original_status": "✅ 2026新规已核验"
+    },
+    {
+      "id": "c05-i004",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「当地、每年」"
+      ],
+      "original_title": "每年重算手机宽带套餐",
+      "original_status": "🟡 核心维权规则可信，标题外推"
+    },
+    {
+      "id": "c05-i006",
+      "reasons": [
+        "dynamic_policy_number: 动态政策主题章节出现日期、金额、比例或期限数字「10%、6%、8%」",
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法律」"
+      ],
+      "original_title": "“高收益/保本/稳赚”直接走开",
+      "original_status": "🟡 风险识别方向可信"
+    },
+    {
+      "id": "c05-i008",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🟠」"
+      ],
+      "original_title": "不给主播打赏、不游戏充值、不冲动下单",
+      "original_status": "🟠 没有直接效果证据"
+    },
+    {
+      "id": "c05-i009",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法律」"
+      ],
+      "original_title": "未成年人不相称的大额充值可主张退",
+      "original_status": "✅ 法律依据可信"
+    },
+    {
+      "id": "c05-i011",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🟠」",
+        "potentially_overstated_or_incomplete: 命中表述「不能一概、外推明显」"
+      ],
+      "original_title": "拒绝电子产品延保",
+      "original_status": "🟠 旧美国零售数据外推明显"
+    },
+    {
+      "id": "c05-i013",
+      "reasons": [
+        "dynamic_policy_number: 动态政策主题章节出现日期、金额、比例或期限数字「2026年」",
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「医保」"
+      ],
+      "original_title": "办医保家庭共济",
+      "original_status": "✅ 已核验且2026范围更宽"
+    },
+    {
+      "id": "c05-i014",
+      "reasons": [
+        "potentially_overstated_or_incomplete: 命中表述「不能一概」",
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「当地」"
+      ],
+      "original_title": "喝烧开的自来水，不长期买瓶装水",
+      "original_status": "🟡 多数地区可行但高度依赖当地水质/管网"
+    },
+    {
+      "id": "c05-i020",
+      "reasons": [
+        "potentially_overstated_or_incomplete: 命中表述「过度」",
+        "dynamic_policy_number: 动态政策主题章节出现日期、金额、比例或期限数字「12000元」",
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「政策、每年」"
+      ],
+      "original_title": "交个税的人开个人养老金账户，每年12000元税前扣除",
+      "original_status": "🟡 税收政策可信，“不交个税就不划算”过度"
+    },
+    {
+      "id": "c05-i022",
+      "reasons": [
+        "dynamic_policy_number: 动态政策主题章节出现日期、金额、比例或期限数字「2025-05」",
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「现行」"
+      ],
+      "original_title": "预付款签书面合同；商家风险时要求退余额",
+      "original_status": "✅ 现行司法解释更强支持"
+    },
+    {
+      "id": "c05-i023",
+      "reasons": [
+        "dynamic_policy_number: 动态政策主题章节出现日期、金额、比例或期限数字「24小时」"
+      ],
+      "original_title": "大额购买设24小时冷静期，网购用七日无理由",
+      "original_status": "🟡 七日退货有法定依据，24小时是经验规则"
+    },
+    {
+      "id": "c05-i025",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「税务」"
+      ],
+      "original_title": "保险优先消费型，把返还分红视为不保证",
+      "original_status": "🟡 “分红不保证”可信，产品选择不能一刀切"
+    },
+    {
+      "id": "c05-i027",
+      "reasons": [
+        "dynamic_policy_number: 动态政策主题章节出现日期、金额、比例或期限数字「6个月」"
+      ],
+      "original_title": "存3–6个月生活费应急金",
+      "original_status": "🟡 常见财务规划经验值"
+    },
+    {
+      "id": "c05-i029",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法规」"
+      ],
+      "original_title": "网购认平台规则和法条，不认主播好评",
+      "original_status": "✅ 核心方向可信"
+    },
+    {
+      "id": "c05-i030",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「争议」"
+      ],
+      "original_title": "直播间出问题向平台索要卖家和带货人信息",
+      "original_status": "✅ 2026新规已核验"
+    },
+    {
+      "id": "c05-i031",
+      "reasons": [
+        "dynamic_policy_number: 动态政策主题章节出现日期、金额、比例或期限数字「1000元」"
+      ],
+      "original_title": "不安全食品可主张十倍价款，最低1000元",
+      "original_status": "🟡 条件成立时正确"
+    },
+    {
+      "id": "c05-i033",
+      "reasons": [
+        "potentially_overstated_or_incomplete: 命中表述「不能一概」"
+      ],
+      "original_title": "手串玉石名表潮玩按消费而非存款算",
+      "original_status": "🟡 风险提示合理，原A过高"
+    },
+    {
+      "id": "c05-i034",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「已过时、错误、🔴」",
+        "dynamic_policy_number: 动态政策主题章节出现日期、金额、比例或期限数字「2026-06」"
+      ],
+      "original_title": "珠宝玉石只认CMA检测报告",
+      "original_status": "🔴 2026后已过时/表述错误"
+    },
+    {
+      "id": "c05-i035",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「不成立」"
+      ],
+      "original_title": "盲盒抽卡按钱不会回来算",
+      "original_status": "🟡 作为预算规则合理，A级证据不成立"
+    },
+    {
+      "id": "c06-i001",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「证据不足」"
+      ],
+      "original_title": "不要为了长寿/防心血管病吃复合维生素",
+      "original_status": "🟡 对“延寿/防CVD”基本可信，但不能说所有多维都没价值"
+    },
+    {
+      "id": "c06-i010",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🟠」",
+        "potentially_overstated_or_incomplete: 命中表述「过度」"
+      ],
+      "original_title": "不要花大钱买保健品/膏方/滋补品“调理”",
+      "original_status": "🟠 过度概括"
+    },
+    {
+      "id": "c06-i015",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「法律」"
+      ],
+      "original_title": "不要用算命塔罗星座做决定",
+      "original_status": "✅ 作为预测工具缺乏可靠验证"
+    },
+    {
+      "id": "c07-i003",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「工伤、法律」"
+      ],
+      "original_title": "打不起官司就申请法律援助",
+      "original_status": "✅ 已核验"
+    },
+    {
+      "id": "c07-i004",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「当地、救助」"
+      ],
+      "original_title": "走投无路去救助站",
+      "original_status": "🟡 基本可信"
+    },
+    {
+      "id": "c07-i005",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「救助」"
+      ],
+      "original_title": "急危重症先救治，没钱也拨120",
+      "original_status": "✅ 核心原则可信"
+    },
+    {
+      "id": "c07-i006",
+      "reasons": [
+        "potentially_overstated_or_incomplete: 命中表述「过度」"
+      ],
+      "original_title": "找活先用免费公共就业服务",
+      "original_status": "✅ 基本可信"
+    },
+    {
+      "id": "c07-i007",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「地方、救助」"
+      ],
+      "original_title": "突发变故先申请临时救助",
+      "original_status": "✅ 核心方向可信"
+    },
+    {
+      "id": "c07-i009",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「当地、补贴」"
+      ],
+      "original_title": "持残疾人证申请残疾人两项补贴",
+      "original_status": "🟡 需符合补贴类别条件"
+    },
+    {
+      "id": "c07-i010",
+      "reasons": [
+        "potentially_overstated_or_incomplete: 命中表述「不是全国」",
+        "dynamic_policy_number: 动态政策主题章节出现日期、金额、比例或期限数字「2026年、400元」",
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「医保、当地、每年」"
+      ],
+      "original_title": "居民医保每年400元不要断",
+      "original_status": "🟡 2026很多地区是400元，但不是全国统一"
+    },
+    {
+      "id": "c07-i011",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「医保、政策、救助」"
+      ],
+      "original_title": "重病先走医保、大病保险、医疗救助和异地备案",
+      "original_status": "✅ 路径可信"
+    },
+    {
+      "id": "c07-i012",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「规定」"
+      ],
+      "original_title": "身份证丢了立即补办，急用办临时证",
+      "original_status": "✅ 核心可信"
+    },
+    {
+      "id": "c07-i013",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「地方、社保、补贴」"
+      ],
+      "original_title": "办失业登记后争取就业困难人员认定",
+      "original_status": "🟡 方向可信但资格地方化"
+    },
+    {
+      "id": "c07-i014",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「各地、政策、社保、补贴」"
+      ],
+      "original_title": "失业期间领培训/见习/社保补贴",
+      "original_status": "🟡 可用政策真实，不是所有失业者都同时符合"
+    },
+    {
+      "id": "c07-i017",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「地方」"
+      ],
+      "original_title": "住房困难先排公租房",
+      "original_status": "🟡 可能很有用，但资格高度地方化"
+    },
+    {
+      "id": "c07-i019",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「医保、当地、政策、社保」"
+      ],
+      "original_title": "社保断缴不要慌：养老按累计，医保按规则补",
+      "original_status": "✅ 核心方向可信"
+    },
+    {
+      "id": "c07-i020",
+      "reasons": [
+        "potentially_overstated_or_incomplete: 命中表述「并非全国」",
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「试点」"
+      ],
+      "original_title": "坐过牢、破过产、失信都有重来路径",
+      "original_status": "🟡 方向可信但过于概括"
+    },
+    {
+      "id": "c07-i021",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🟠」",
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「医保」"
+      ],
+      "original_title": "医保外配一年期医疗险或重疾险",
+      "original_status": "🟠 保险配置属于个体决策"
+    },
+    {
+      "id": "c07-i022",
+      "reasons": [
+        "dynamic_policy_number: 动态政策主题章节出现日期、金额、比例或期限数字「24小时」",
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「地方、救助」"
+      ],
+      "original_title": "实在没地方睡优先救助站",
+      "original_status": "🟡 安全建议合理"
+    },
+    {
+      "id": "c08-i001",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「法律」"
+      ],
+      "original_title": "交通事故先停车、救人、报警，不要跑",
+      "original_status": "✅ 核心法律义务可信"
+    },
+    {
+      "id": "c08-i003",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「法律」"
+      ],
+      "original_title": "反诈硬规则：不轻信、不透露、不点链接、转账多核实",
+      "original_status": "✅ 作为通用启发式可信"
+    },
+    {
+      "id": "c08-i005",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「错误」",
+        "potentially_overstated_or_incomplete: 命中表述「一概」"
+      ],
+      "original_title": "被指控/传唤先请律师，不私了、不删记录",
+      "original_status": "🟡 “请律师/保留证据”合理，“一律不私了”过强"
+    },
+    {
+      "id": "c08-i006",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「地方、法律」"
+      ],
+      "original_title": "喝酒后不碰方向盘，包括“挪一下”",
+      "original_status": "✅ 核心法律风险可信"
+    },
+    {
+      "id": "c08-i007",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「法律」"
+      ],
+      "original_title": "不把银行卡、手机卡、支付账号借人，“跑分”不是兼职",
+      "original_status": "✅ 高风险法律提醒可信"
+    },
+    {
+      "id": "c08-i008",
+      "reasons": [
+        "dynamic_policy_number: 涉及具体政策领域出现日期、金额、比例或期限数字「5年」",
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「每年、现行」"
+      ],
+      "original_title": "每年免费查两次征信报告",
+      "original_status": "✅ 已核验"
+    },
+    {
+      "id": "c08-i009",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「法律、规定」"
+      ],
+      "original_title": "冲突先报警不动手",
+      "original_status": "🟡 风险控制方向对，但“先动手几乎一定吃亏”不是法律规则"
+    },
+    {
+      "id": "c08-i011",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「法律」"
+      ],
+      "original_title": "欠薪/被开除/被骗走投诉仲裁起诉，不去报复",
+      "original_status": "✅ 法律路径可信"
+    },
+    {
+      "id": "c08-i014",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「法律」"
+      ],
+      "original_title": "身边人明确威胁伤己伤人，不要只当气话",
+      "original_status": "✅ 法律依据明确"
+    },
+    {
+      "id": "c08-i015",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「法律」"
+      ],
+      "original_title": "网上不造谣侮辱；被网暴先留证",
+      "original_status": "✅ 核心法律风险可信"
+    },
+    {
+      "id": "c08-i017",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「法律」"
+      ],
+      "original_title": "借钱写借条；担保前想清楚是否愿意替他还",
+      "original_status": "✅ 核心法律区分可信"
+    },
+    {
+      "id": "c08-i018",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「过时」"
+      ],
+      "original_title": "维权有期限：民事诉讼时效 3 年，劳动仲裁 1 年，过了对方一句「超过时效」就够",
+      "original_status": "🟡 基本可信但时效表述过强"
+    },
+    {
+      "id": "c08-i019",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "被起诉、被执行了，如实报财产、能还多少还多少，别把房和钱转给亲友或公司",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c08-i020",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「待核实、🟠」"
+      ],
+      "original_title": "被限制消费或者被列入失信名单，先查清是按哪一条纳入的，能纠正的申请纠正",
+      "original_status": "🟠 部分待核实"
+    },
+    {
+      "id": "c08-i021",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "网购、二手交易被骗，先平台投诉，再报警，再算值不值得起诉",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c08-i022",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "恋爱和婚内的大额赠与，交付之前想清楚，交付之后原则上要不回",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c08-i023",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "彩礼走转账并备注，聊天记录留好；借婚姻要钱可以要回",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c08-i024",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "婚前财产不用怕，房子加名和父母出资先写清楚",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c08-i025",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「待核实、🟠」"
+      ],
+      "original_title": "结婚前核对对方婚姻状况，以结婚为幌子骗钱的按诈骗罪追究",
+      "original_status": "🟠 部分待核实"
+    },
+    {
+      "id": "c08-i026",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「待核实、🟠」"
+      ],
+      "original_title": "上门维修、验车、装修，先问价再动手，全程在旁边看着",
+      "original_status": "🟠 部分待核实"
+    },
+    {
+      "id": "c08-i027",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「待核实、🟠」"
+      ],
+      "original_title": "别当「挂名法人」，别把身份证借给人注册公司",
+      "original_status": "🟠 部分待核实"
+    },
+    {
+      "id": "c08-i028",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「入境」"
+      ],
+      "original_title": "出入境不帮陌生人带东西，不代收来路不明的包裹",
+      "original_status": "🟡 官方规则支持"
+    },
+    {
+      "id": "c08-i029",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「地方、法律、规定」"
+      ],
+      "original_title": "养狗必须牵绳：不牵绳出了事是无过错责任（你有没有错都要赔），赔到底",
+      "original_status": "🟡 核心责任规则可信"
+    },
+    {
+      "id": "c08-i031",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "对方拿报警、发照片、告诉你单位来要钱，一分钱不给，直接报警",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c08-i032",
+      "reasons": [
+        "dynamic_policy_number: 涉及具体政策领域出现日期、金额、比例或期限数字「3 年、5 日」",
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "被人捏造事实举报，可以要求追究：够治安处罚的拘留 5 日起，够罪的判 3 年以下",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c08-i033",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「证据不足」",
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "证据不足本来就应当判无罪，逼出来的口供应当排除；判了还有申诉和再审",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c08-i034",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "被羁押后撤案、不起诉或者判无罪的，去申请国家赔偿，按天算钱",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c08-i036",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "被网暴了：先开防护、先固证，再在平台、禁令、报警三条路里挑",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c08-i037",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "「先给人买保险再动手」这条路法律上从头堵死：钱一分拿不到，罪按故意杀人加保险诈骗数罪并罚",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c08-i038",
+      "reasons": [
+        "dynamic_policy_number: 涉及具体政策领域出现日期、金额、比例或期限数字「7 日」",
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "报警当场要受案回执，不立案要书面通知：7 日内可申请复议，再 7 日可申请复核，检察院能通知公安立案",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c08-i039",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "别给办案、执法的人送钱送卡：行贿自己也判，对监察、执法、司法人员行贿还要从重",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c09-i001",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "群里不转发不知真假的灾情、疫情、警情消息，不 P 图、不用 AI 造现场图",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c09-i002",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "不发、不转侮辱英烈的图片、表情包和评论，不拿国旗国歌开玩笑",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c09-i003",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🔵」",
+        "potentially_overstated_or_incomplete: 命中表述「标题过度、过度」",
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法律」"
+      ],
+      "original_title": "境外网站上的东西看完就关，不截图、不转发、不搬进群里，也不在评论区跟着说",
+      "original_status": "🔵 表述过度"
+    },
+    {
+      "id": "c09-i004",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「待核实、🟠」"
+      ],
+      "original_title": "黄色视频自己看归自己，别往群里发、别卖「资源」、别建群",
+      "original_status": "🟠 部分待核实"
+    },
+    {
+      "id": "c09-i005",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "「兼职」要你用自己的卡收钱、取现、转账，不管给多少好处费都不做",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c09-i006",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "有人拉你去「包装材料」贷款、按贷款额分你好处费，一个都不做",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c09-i007",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「待核实、🟠」"
+      ],
+      "original_title": "捡到银行卡不取钱，捡到手机、钱包联系失主或交给警察，不揣走",
+      "original_status": "🟠 部分待核实"
+    },
+    {
+      "id": "c09-i008",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "优惠用自己的真实身份领，不买虚拟号批量注册小号，不靠漏洞重复领",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c09-i009",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "阳台、窗户不往外扔任何东西，烟头、垃圾袋、酒瓶都算",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c09-i010",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「待核实、🟠」"
+      ],
+      "original_title": "不网购仿真枪、钢珠枪、气枪，不买来路不明的「玩具枪」",
+      "original_status": "🟠 部分待核实"
+    },
+    {
+      "id": "c09-i011",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "买了无人机先实名登记，机场、军事区和城市管制空域不飞，不破解限高",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c09-i012",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "不偷拍别人，不在出租屋、民宿、酒店房间装摄像头",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c09-i013",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「地方」"
+      ],
+      "original_title": "麻将、扑克可以打，不抽头、不当庄、不组局收钱，不玩网络赌博",
+      "original_status": "🟡 需按地方规则判断"
+    },
+    {
+      "id": "c09-i014",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "不吃野味，不买卖、不养保护动物当宠物",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c09-i015",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "要债不扣人、不关人、不跟到家里赖着不让走",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c09-i016",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "身份证不借人，不用别人的身份证，也不拿别人的证件登记、开卡、买票",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c09-i017",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "被警察拦下或带走时配合，不推、不打、不抢执法记录仪，喝了酒更要忍",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c09-i018",
+      "reasons": [
+        "dynamic_policy_number: 动态政策主题章节出现日期、金额、比例或期限数字「14 岁」",
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "对方不满 14 岁就不能发生关系，「她同意」不是理由",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c09-i019",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「待核实、🟠」"
+      ],
+      "original_title": "动手打人前算清这笔账：拘留、赔钱、判刑",
+      "original_status": "🟠 部分待核实"
+    },
+    {
+      "id": "c09-i020",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "孩子生下来养不了，只有民政登记这一条合法出路：收钱把孩子给人可能按拐卖罪判，扔下不管是遗弃罪",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c09-i021",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "别伪造事故、别夸大损失骗理赔：这是保险诈骗罪，帮你作证、帮你修车、帮你鉴定的人一起算",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c09-i022",
+      "reasons": [
+        "dynamic_policy_number: 动态政策主题章节出现日期、金额、比例或期限数字「2 万、20 万、20 倍」",
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "不卖自己的器官，也别帮人找供体：肾到手 2 万多，同一枚转手卖 20 万，钱要被没收还要按交易额罚 10 到 20 倍",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c10-i002",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "对方明确拒绝之后就停下，继续纠缠是治安违法，不是「诚意」",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c10-i009",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "时间账按「无酬劳动」算，谈清分工再领证",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c10-i010",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "钱账先看法律默认规则，再决定要不要书面约定",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c10-i011",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "父母出资买房，在转账的时候就把是借是送写清楚",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c10-i012",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "配偶一方大额借的钱，你没签字也没追认，不自动变成你的债",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c10-i013",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「当地、现行」"
+      ],
+      "original_title": "领证只要身份证加一份签字声明，不用户口簿，不收钱，当场发证",
+      "original_status": "✅ 现行登记便利化方向可信"
+    },
+    {
+      "id": "c10-i014",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「待核实、🟠」"
+      ],
+      "original_title": "婚前做一次婚检，有重大疾病必须在登记前如实告诉对方",
+      "original_status": "🟠 部分待核实"
+    },
+    {
+      "id": "c10-i016",
+      "reasons": [
+        "dynamic_policy_number: 涉及具体政策领域出现日期、金额、比例或期限数字「30 天」",
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "算退出成本：协议离婚有 30 天冷静期，诉讼离婚有法定条件",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c11-i002",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法律」"
+      ],
+      "original_title": "不做、不卖游戏外挂和辅助，包括「只读屏幕不碰内存」的 AI 辅助",
+      "original_status": "🟡 高法律风险，标题略绝对"
+    },
+    {
+      "id": "c11-i003",
+      "reasons": [
+        "potentially_overstated_or_incomplete: 命中表述「不能一概」"
+      ],
+      "original_title": "不写、不卖抢票、秒杀、刷单、薅羊毛脚本，哪怕只是「自动化点按钮」",
+      "original_status": "🟡 高风险但不能一概定罪"
+    },
+    {
+      "id": "c11-i005",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "不接赌博、诈骗、色情 App 的开发单，不替「客户」搭支付通道、解封账号",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c11-i006",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "离职时交清账号权限，不删库、不留后门、不改密码锁系统，哪怕公司欠你钱",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c11-i007",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "离职不带走源码、客户名单和技术文档，不上传个人网盘，不在下家复用",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c11-i008",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "不在别人的电脑、服务器、摄像头上跑自己的程序，公司机器不拿来挖矿",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c11-i009",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "没有书面授权不测别人的系统，「出于好意」和「事后上报」都不是出罪理由",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c11-i010",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法律、法规、现行、规定」"
+      ],
+      "original_title": "漏洞按规定报送，修补前不公开细节、不发利用工具、不交给境外",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c11-i011",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🔵」",
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法律」"
+      ],
+      "original_title": "不卖翻墙工具、VPN 账号，不替人搭这类节点",
+      "original_status": "🔵 法律边界复杂"
+    },
+    {
+      "id": "c11-i012",
+      "reasons": [
+        "dynamic_policy_number: 动态政策主题章节出现日期、金额、比例或期限数字「3 个月」",
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "签了竞业协议，离职后公司不按月给补偿就书面催告，满 3 个月没给可以解除；没接触过商业秘密的岗位可请求确认条款不生效",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c11-i013",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法律、法规、现行」"
+      ],
+      "original_title": "上班时间、用公司资源写的代码归公司，自己的开源项目用自己的时间和设备做，不混公司代码",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c11-i015",
+      "reasons": [
+        "dynamic_policy_number: 动态政策主题章节出现日期、金额、比例或期限数字「14 岁」",
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「政策」"
+      ],
+      "original_title": "做 App 只收业务必需的个人信息，14 岁以下要监护人同意，隐私政策写清楚",
+      "original_status": "🟡 官方规则支持"
+    },
+    {
+      "id": "c11-i016",
+      "reasons": [
+        "dynamic_policy_number: 动态政策主题章节出现日期、金额、比例或期限数字「6 个月、6个月」"
+      ],
+      "original_title": "网站、App 上线前先做 ICP 备案，按等级保护要求留 6 个月以上日志",
+      "original_status": "🟡 需区分备案与等保义务"
+    },
+    {
+      "id": "c11-i017",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「最新、规定」"
+      ],
+      "original_title": "对公众提供生成式 AI 服务前先按规定做安全评估和算法备案，生成内容加标识",
+      "original_status": "🟡 动态监管项"
+    },
+    {
+      "id": "c12-i002",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法规」"
+      ],
+      "original_title": "不给公司贷款签个人担保，配偶更不要跟着签",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c12-i003",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法律」"
+      ],
+      "original_title": "开张前选对主体：个体户和合伙人赔到底，有限公司才「有限」",
+      "original_status": "✅ 核心法律结构可信"
+    },
+    {
+      "id": "c12-i004",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「待核实、🟠」"
+      ],
+      "original_title": "不当挂名股东，不替人代持股权",
+      "original_status": "🟠 部分待核实"
+    },
+    {
+      "id": "c12-i005",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法规」"
+      ],
+      "original_title": "加盟前先查商务部备案，拿到书面披露，把「冷静期」写进合同",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c12-i006",
+      "reasons": [
+        "potentially_overstated_or_incomplete: 命中表述「过度」"
+      ],
+      "original_title": "注册前把名称、经营场所、经营范围和注册资本定下来，材料齐了当场就能领执照",
+      "original_status": "🟡 “材料齐当场领照”过度"
+    },
+    {
+      "id": "c12-i007",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法规」"
+      ],
+      "original_title": "要许可证的行当，证没下来不开张",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c12-i008",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法规」"
+      ],
+      "original_title": "做食品先看自己落在哪一档：生产和做餐饮要许可，只卖预包装的改备案，卖生鲜肉菜不用证",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c12-i009",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法规」"
+      ],
+      "original_title": "装袋卖就是预包装食品：标签上生产日期、保质期、配料表一样都不能少",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c12-i010",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法规」"
+      ],
+      "original_title": "普通食品不许说能治病：标签、说明书、广告和直播话术都算",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c12-i011",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法规」"
+      ],
+      "original_title": "食品这一行有刑事线：卖病死肉、超标货就够罪，掺了有毒有害的不看金额、起刑五年",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c12-i012",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「税务」"
+      ],
+      "original_title": "领了执照就开始有申报义务，没有收入也要按期零申报（照报一张全是零的表）",
+      "original_status": "🟡 申报义务可信但“零申报”需按税种"
+    },
+    {
+      "id": "c12-i013",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「税务」"
+      ],
+      "original_title": "发票只按真实交易开，小规模纳税人用足免税额",
+      "original_status": "🟡 小规模免税标准动态"
+    },
+    {
+      "id": "c12-i014",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法规、税务」"
+      ],
+      "original_title": "自称税务局催你交钱报税的都是骗子，办税只走电子税务局和 12366",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c12-i015",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「待核实、🟠」"
+      ],
+      "original_title": "收钱写「定金」不写「订金」，违约金写明数，账期当放贷来审",
+      "original_status": "🟠 部分待核实"
+    },
+    {
+      "id": "c12-i016",
+      "reasons": [
+        "dynamic_policy_number: 动态政策主题章节出现日期、金额、比例或期限数字「30 日」",
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法规、社保」"
+      ],
+      "original_title": "用人第一个月内签书面合同，30 日内办社保登记",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c12-i017",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法律」"
+      ],
+      "original_title": "工资按合同和法律给，加薪、借款、奖金都走书面",
+      "original_status": "⚪ 经验建议"
+    },
+    {
+      "id": "c12-i018",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「待核实、🟠」"
+      ],
+      "original_title": "先卖再造：用预售和小订单验证有人买，再投钱生产",
+      "original_status": "🟠 部分待核实"
+    },
+    {
+      "id": "c12-i020",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法规」"
+      ],
+      "original_title": "进货一批留一批票据和上家信息，进货价明显低于市场价的不进：员工进的假货，老板是被判的那个",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c12-i021",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法规」"
+      ],
+      "original_title": "商品、包装、吊牌和宣传图上的图案要么自己做要么买授权，改个颜色、加个图标不算「改过了」",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c12-i022",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「待核实、🟠」"
+      ],
+      "original_title": "在岗位上按规程办事，规程之外的好意先想清楚责任归谁",
+      "original_status": "🟠 部分待核实"
+    },
+    {
+      "id": "c12-i023",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「待核实、🟠」"
+      ],
+      "original_title": "亏了就按程序退场：能简易注销就注销，资不抵债走破产，别放着不管",
+      "original_status": "🟠 部分待核实"
+    },
+    {
+      "id": "c13-i017",
+      "reasons": [
+        "potentially_overstated_or_incomplete: 命中表述「安全隐患」"
+      ],
+      "original_title": "有人触电，先断电，再用干燥的木棍之类挑开电源，不要直接上手拉",
+      "original_status": "🟡 原标题有安全隐患"
+    },
+    {
+      "id": "c13-i018",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「待核实、🟠」"
+      ],
+      "original_title": "一氧化碳报警器响了，或者一屋子人同时头痛恶心，先出门再打电话",
+      "original_status": "🟠 部分待核实"
+    },
+    {
+      "id": "c13-i019",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🟠」"
+      ],
+      "original_title": "误服清洁剂、农药、药物先别催吐，带上瓶子立刻就医；溅到眼睛或皮肤用大量清水冲 15 分钟",
+      "original_status": "🟠 证据映射不足"
+    },
+    {
+      "id": "c13-i020",
+      "reasons": [
+        "manual_review: 逐条检查发现需要补足条件或证据映射"
+      ],
+      "original_title": "酸碱等化学品溅到身上，立刻脱掉污染的衣服、用大量流动清水冲，眼睛要掰开眼皮冲，冲够时间再走",
+      "original_status": "官方规则支持"
+    },
+    {
+      "id": "c13-i021",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「待核实、🟠」"
+      ],
+      "original_title": "记住七种最常见的网络骗局，凡是让你先转钱、先交费、共享屏幕的直接挂",
+      "original_status": "🟠 部分待核实"
+    },
+    {
+      "id": "c13-i022",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「待核实、🟠」"
+      ],
+      "original_title": "被人用隐私照片、视频威胁，一分钱不给、一条记录不删，立刻报警",
+      "original_status": "🟠 部分待核实"
+    },
+    {
+      "id": "c13-i023",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「待核实、🟠」"
+      ],
+      "original_title": "高温下头晕、恶心、不出汗或意识不清，立刻挪到阴凉处脱衣泼水降温，意识不清的不喂水、打 120",
+      "original_status": "🟠 部分待核实"
+    },
+    {
+      "id": "c13-i024",
+      "reasons": [
+        "manual_review: 逐条检查发现需要补足条件或证据映射"
+      ],
+      "original_title": "中暑的人只要清醒，就少量多次喝凉的淡盐水或运动饮料，别猛灌、别喝酒和高糖饮料",
+      "original_status": "官方规则支持"
+    },
+    {
+      "id": "c13-i025",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「需更新、🟠」"
+      ],
+      "original_title": "火灾时贴地爬、摸门再开门、门烫就别开，走楼梯不坐电梯，出去了别回头",
+      "original_status": "🟠 部分传统火灾话术需更新"
+    },
+    {
+      "id": "c13-i027",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「待核实、🟠」"
+      ],
+      "original_title": "有人噎住说不出话，站到背后做 5 次拍背加 5 次腹部冲击，倒下就做心肺复苏",
+      "original_status": "🟠 部分待核实"
+    },
+    {
+      "id": "c13-i028",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「待核实、🟠」"
+      ],
+      "original_title": "在戈壁、沙漠、无人区迷路或车坏了，留在原地或车旁，先报位置，再遮阳保温，省水，不乱走",
+      "original_status": "🟠 部分待核实"
+    },
+    {
+      "id": "c13-i030",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「待核实、🟠」"
+      ],
+      "original_title": "被蛇咬，坐下别动、摘掉戒指手表、尽快送医院打抗蛇毒血清，不切、不吸、不绑死",
+      "original_status": "🟠 部分待核实"
+    },
+    {
+      "id": "c13-i031",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🔵」"
+      ],
+      "original_title": "地震时先看自己在什么房子里：符合抗震设防的楼里就地躲，会垮的老房子门在几步外就出去",
+      "original_status": "🔵 地震规则不能简化成“老房门近就跑”"
+    },
+    {
+      "id": "c13-i032",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🔴」",
+        "potentially_overstated_or_incomplete: 命中表述「一概、过度」"
+      ],
+      "original_title": "遇到熊、野猪、成群野狗，别跑、别尖叫、别对视，侧身慢慢退开",
+      "original_status": "🔴 动物应对过度一概而论"
+    },
+    {
+      "id": "c13-i033",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🟠」"
+      ],
+      "original_title": "野外遇上雷雨，钻进有硬顶的车或建筑，避开山脊、孤树、水面和金属",
+      "original_status": "🟠 证据映射不足"
+    },
+    {
+      "id": "c13-i034",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「法规」"
+      ],
+      "original_title": "上高原按睡眠海拔（当晚睡在多高）慢慢升，症状加重就下撤，不要硬扛",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c13-i035",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「待核实、🟠」"
+      ],
+      "original_title": "被蜱虫叮住，用尖头镊子贴着皮肤稳稳拉出来，别涂油别用火烧",
+      "original_status": "🟠 部分待核实"
+    },
+    {
+      "id": "c13-i036",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「错误、🔴」"
+      ],
+      "original_title": "野外的水一律烧开再喝，滚开一分钟就够，不用因为海拔高多煮",
+      "original_status": "🔴 高海拔煮水表述错误"
+    },
+    {
+      "id": "c13-i040",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「医保」"
+      ],
+      "original_title": "救人受了伤、搭进了钱，先找加害人和医保，再去申报见义勇为确认",
+      "original_status": "🟡 官方规则支持"
+    },
+    {
+      "id": "c14-i005",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「法规」"
+      ],
+      "original_title": "卡被盗刷先挂失冻结再报警，然后要求银行赔：证明「是你自己刷的」是银行的责任",
+      "original_status": "🟡 银行并非当然赔付"
+    },
+    {
+      "id": "c14-i007",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「法规」"
+      ],
+      "original_title": "别为了用 App 点「全部同意」：不是必需的信息，你不同意也不能拒绝给你服务",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c14-i008",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「法规」"
+      ],
+      "original_title": "你有权查看、复制、更正和删除自己的个人信息，被拒绝可以起诉",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c14-i009",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「法规」"
+      ],
+      "original_title": "刷脸不是必须答应的：有别的办法就不能只让你刷脸，你不同意得给你其他方式",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c15-i001",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法规」"
+      ],
+      "original_title": "押金的数额、退还时间和扣减情形，必须写进合同",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c15-i002",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法规」"
+      ],
+      "original_title": "被断水断电、换锁、上门威胁赶人，先报警留证：法规禁止用这些方式逼你腾房",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c15-i003",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「现行」"
+      ],
+      "original_title": "中介不得代收代付租金和押金，钱直接给房东",
+      "original_status": "✅ 2025住房租赁条例支持"
+    },
+    {
+      "id": "c15-i005",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法规」"
+      ],
+      "original_title": "房子租期内被卖掉，租约继续有效，不用搬",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c15-i007",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法规」"
+      ],
+      "original_title": "二手房让中介代收房款的，必须走中介在银行开的交易资金专用存款账户",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c15-i008",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「地方、规定」"
+      ],
+      "original_title": "别租隔断房：最小出租单位是原设计的房间，厨房、卫生间、阳台不得住人",
+      "original_status": "🟡 规则可信但需看地方细则"
+    },
+    {
+      "id": "c16-i005",
+      "reasons": [
+        "dynamic_policy_number: 涉及具体政策领域出现日期、金额、比例或期限数字「12 周」",
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「政策、法规、现行」"
+      ],
+      "original_title": "病情稳定的慢性病，在社区医院一次可以开到 12 周的药",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c16-i006",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「医保、政策、法规、现行」"
+      ],
+      "original_title": "在社区签家庭医生之前，问清楚哪些进医保、哪些自费",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c17-i001",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「法律」"
+      ],
+      "original_title": "趁老人清醒，书面指定将来的监护人",
+      "original_status": "✅ 意定监护法律依据明确"
+    },
+    {
+      "id": "c17-i005",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「政策、法规、现行」"
+      ],
+      "original_title": "凡是让老人先交钱的「投资养老」都别碰：办卡、买床位、买养老公寓、旅居养老、买老年产品是同一套非法集资",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c17-i007",
+      "reasons": [
+        "potentially_overstated_or_incomplete: 命中表述「不是全国」",
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「医保、政策」"
+      ],
+      "original_title": "家里老人长期卧床或重度失能，去参保地医保部门申请长期护理保险",
+      "original_status": "🟡 长护险不是全国统一同一待遇"
+    },
+    {
+      "id": "c18-i001",
+      "reasons": [
+        "dynamic_policy_number: 涉及具体政策领域出现日期、金额、比例或期限数字「3 岁、3600 元、3600元、3周」",
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「地方、每年、补贴」"
+      ],
+      "original_title": "先把能领的算进来：国家育儿补贴每孩每年 3600 元，发到 3 岁",
+      "original_status": "✅ 2025起国家育儿补贴已核验"
+    },
+    {
+      "id": "c18-i002",
+      "reasons": [
+        "dynamic_policy_number: 涉及具体政策领域出现日期、金额、比例或期限数字「98 天、98天」",
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「各省、地方、政策」"
+      ],
+      "original_title": "产假 98 天，生育津贴由生育保险基金按单位上年度职工月平均工资发",
+      "original_status": "🟡 98天是国家基线，各省加假不同"
+    },
+    {
+      "id": "c19-i001",
+      "reasons": [
+        "dynamic_policy_number: 动态政策主题章节出现日期、金额、比例或期限数字「1.5 倍、100%、2 倍、3 倍、3倍、50%」"
+      ],
+      "original_title": "加班费按 1.5 倍、2 倍、3 倍三档算，不给就投诉劳动监察，逾期不付还要加付 50% 到 100%",
+      "original_status": "🟡 加班倍数可信，50%-100%加付有前置条件"
+    },
+    {
+      "id": "c19-i002",
+      "reasons": [
+        "dynamic_policy_number: 动态政策主题章节出现日期、金额、比例或期限数字「15 天、15天、300%、3倍」"
+      ],
+      "original_title": "年休假按累计工龄算 5、10、15 天，没休成的按日工资 300% 折钱",
+      "original_status": "✅ 年休假5/10/15天规则可信"
+    },
+    {
+      "id": "c19-i003",
+      "reasons": [
+        "dynamic_policy_number: 动态政策主题章节出现日期、金额、比例或期限数字「80%」",
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「政策、法规、现行」"
+      ],
+      "original_title": "试用期有法定上限、工资不得低于 80%，而且只能约定一次",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c19-i004",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「政策、法规、现行」"
+      ],
+      "original_title": "被裁先算清 N：每满一年一个月工资，不满六个月按半个月",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c19-i005",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🔵」",
+        "potentially_overstated_or_incomplete: 命中表述「过度」",
+        "dynamic_policy_number: 动态政策主题章节出现日期、金额、比例或期限数字「30 天、30天」"
+      ],
+      "original_title": "公司没提前 30 天通知，还要多付一个月工资",
+      "original_status": "🔵 “没提前30天=必有N+1”过度"
+    },
+    {
+      "id": "c19-i006",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「政策、法规、现行」"
+      ],
+      "original_title": "公司违法解除的，赔偿金是经济补偿标准的二倍",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c19-i008",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「社保」"
+      ],
+      "original_title": "离职前把工资条、考勤、劳动合同、社保记录和聊天记录先存下来",
+      "original_status": "⚪ 经验建议"
+    },
+    {
+      "id": "c19-i010",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「政策、法规、现行」"
+      ],
+      "original_title": "进有粉尘、噪声、化学品的岗位之前，先看合同里写没写危害；三次职业健康检查由单位安排并掏钱",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c19-i011",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「政策、法规、现行」"
+      ],
+      "original_title": "粉尘、噪声、化学毒物造成的损伤不可逆：防护用品单位必须给，没有防护措施的作业可以拒绝",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c19-i012",
+      "reasons": [
+        "dynamic_policy_number: 动态政策主题章节出现日期、金额、比例或期限数字「1年」",
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「工伤」"
+      ],
+      "original_title": "上班受伤、上下班路上被撞，第一件事是做工伤认定，单位不报你自己报",
+      "original_status": "🟡 上下班路上并非“被撞都算工伤”"
+    },
+    {
+      "id": "c19-i013",
+      "reasons": [
+        "dynamic_policy_number: 动态政策主题章节出现日期、金额、比例或期限数字「48小时」",
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「工伤」"
+      ],
+      "original_title": "别信「撑到工位就算工伤」：突发不适先打 120，不是先赶去打卡",
+      "original_status": "🟡 核心提醒正确，48小时规则需谨慎"
+    },
+    {
+      "id": "c19-i014",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「工伤、政策、法规、现行」"
+      ],
+      "original_title": "单位没给你交工伤保险，工伤待遇一样有，由单位按同样的标准全额出",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c19-i015",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「政策、法规、现行」"
+      ],
+      "original_title": "伤情稳定后去做劳动能力鉴定，伤残等级直接换算成钱",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c19-i016",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「待核实、🟠」"
+      ],
+      "original_title": "工亡的三笔钱要分清：丧葬补助金、供养亲属抚恤金、一次性工亡补助金",
+      "original_status": "🟠 部分待核实"
+    },
+    {
+      "id": "c20-i010",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「待核实、🟠」"
+      ],
+      "original_title": "尿布不看牌子看三件事：合不合身、换得勤不勤、有没有被抽检通报过",
+      "original_status": "🟠 部分待核实"
+    },
+    {
+      "id": "c21-i001",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「地方、更新」"
+      ],
+      "original_title": "出发前查一次外交部安全提醒，标了「暂勿前往」的地方就别去",
+      "original_status": "✅ 动态官方提醒应出发前现查"
+    },
+    {
+      "id": "c21-i002",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「当地、政策」"
+      ],
+      "original_title": "把 12308 和当地使领馆的领保电话存进手机，别等出事再找",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c21-i003",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「政策」"
+      ],
+      "original_title": "知道领事保护能做什么、不能做什么：能探视，不能捞人，费用还得自己付",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c21-i005",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「出境、政策」"
+      ],
+      "original_title": "「境外高薪招聘」一律当诈骗看，被骗去做电诈回来还要被限制出境",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c21-i006",
+      "reasons": [
+        "dynamic_policy_number: 动态政策主题章节出现日期、金额、比例或期限数字「10 万」",
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「政策、现行、调整」"
+      ],
+      "original_title": "境外取现一年不能超过 10 万元人民币，是本人名下所有卡合起来算的",
+      "original_status": "✅ 现行外汇银行卡境外取现年度限额可信"
+    },
+    {
+      "id": "c21-i007",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「签证」"
+      ],
+      "original_title": "护照、签证、身份证都拍照存一份在云端，丢了先报警再补旅行证",
+      "original_status": "⚪ 经验建议"
+    },
+    {
+      "id": "c21-i008",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「当地」"
+      ],
+      "original_title": "境外自驾先确认当地认不认中国驾照，网上卖的「国际驾照」多数是废纸",
+      "original_status": "🟡 核心警告正确"
+    },
+    {
+      "id": "c21-i009",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「政策、签证」"
+      ],
+      "original_title": "找中介办签证、留学、移民，先问它有没有在移民管理机构备案",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c21-i010",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「入境、政策」"
+      ],
+      "original_title": "别替陌生人出具邀请函，也别让人借你的名义办出入境手续",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c21-i011",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「出境」"
+      ],
+      "original_title": "出境前把行程、住处和同行人发给一位家人，约好多久联系一次",
+      "original_status": "⚪ 经验建议"
+    },
+    {
+      "id": "c23-i003",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「过时、🔵」"
+      ],
+      "original_title": "判断「学历是不是贬值了」之前，先看全国的学历结构：每 10 万人里只有 15467 人有大学文化程度",
+      "original_status": "🔵 数字真实但已明显过时作当前学历结构"
+    },
+    {
+      "id": "c23-i005",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「政策」"
+      ],
+      "original_title": "没考上普高不等于路断了：中职有贯通招生和单独考试，技能岗位招聘还可以降学历要求",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c23-i009",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「政策、补贴」"
+      ],
+      "original_title": "培训优先走政府补贴渠道，别一上来就自费报商业班",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c23-i012",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「待核实、🟠」",
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「当地、补贴」"
+      ],
+      "original_title": "别把「网上说工资高」当成缺人，去查当地的紧缺职业目录和补贴目录",
+      "original_status": "🟠 部分待核实"
+    },
+    {
+      "id": "c24-i001",
+      "reasons": [
+        "potentially_overstated_or_incomplete: 命中表述「并非全国」",
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「医保、政策」"
+      ],
+      "original_title": "常见病先在社区看，经基层逐级转诊上去，住院起付线接着算",
+      "original_status": "🟡 分级诊疗方向可信，起付线“接着算”并非全国统一"
+    },
+    {
+      "id": "c24-i002",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🔵」",
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「医保、地方」"
+      ],
+      "original_title": "同一个统筹地区（医保参保地）里，级别越低报销比例越高，差距约 10 个百分点",
+      "original_status": "🔵 “低级别高约10个百分点”仅是地方常见现象"
+    },
+    {
+      "id": "c24-i003",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「政策、法规、现行」"
+      ],
+      "original_title": "要去大医院，走基层转诊或者医院的转诊中心，别找号贩子",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c24-i004",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🔴」",
+        "potentially_overstated_or_incomplete: 命中表述「不是全国」"
+      ],
+      "original_title": "跨省异地就医之前先在本地问一句，必要性原则上要副主任医师以上评估",
+      "original_status": "🔴 “原则上副主任医师以上评估”不是全国普遍异地就医前置条件"
+    },
+    {
+      "id": "c24-i006",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「政策、法规、现行」"
+      ],
+      "original_title": "每次看完病，把病历、检查报告和影像自己存一份",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c24-i007",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「政策、法规、现行」"
+      ],
+      "original_title": "对诊疗有疑问就当场要求封存病历，双方在场、开清单、各执一份",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c24-i009",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「医保、救助」"
+      ],
+      "original_title": "没带钱、没带证件、说不清自己是谁，急诊也必须先救",
+      "original_status": "✅ 急危重症先救治原则可信"
+    },
+    {
+      "id": "c24-i010",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「工伤」"
+      ],
+      "original_title": "伤残鉴定要等治疗终结之后再做，做早了等级会评低",
+      "original_status": "🟡 鉴定时点需看鉴定类型"
+    },
+    {
+      "id": "c24-i011",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🟠」"
+      ],
+      "original_title": "治完之后确实留下功能障碍，去户籍地县级残联申请残疾人证",
+      "original_status": "🟠 证据映射不足"
+    },
+    {
+      "id": "c24-i012",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「政策、法规、现行」"
+      ],
+      "original_title": "谢救过你的医生，走感谢信、锦旗和满意度评价，别走红包：准则禁的是财物，不是谢意",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c25-i001",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「政策、法规、现行」"
+      ],
+      "original_title": "人在家里或外面没了，先分清正常死亡还是非正常死亡：意外、死因不明、独居才发现的，立刻报警，遗体和现场不要动",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c25-i002",
+      "reasons": [
+        "potentially_overstated_or_incomplete: 命中表述「不是全国」",
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「地方」"
+      ],
+      "original_title": "死亡证明是后面所有事的钥匙：谁救治谁开，家中正常死亡找社区卫生服务机构，一日内签发",
+      "original_status": "🟡 一日内签发不是全国所有场景绝对统一"
+    },
+    {
+      "id": "c25-i003",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🔵」",
+        "dynamic_policy_number: 动态政策主题章节出现日期、金额、比例或期限数字「3 日、3日」",
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「地方、规定」"
+      ],
+      "original_title": "遗体接运、存放、火化只能走殡仪馆，医院太平间不办殡仪，存放一般不超过 3 日",
+      "original_status": "🔵 “存放一般不超过3日”高度地方化"
+    },
+    {
+      "id": "c25-i004",
+      "reasons": [
+        "dynamic_policy_number: 动态政策主题章节出现日期、金额、比例或期限数字「48 小时、48小时」",
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「法律」"
+      ],
+      "original_title": "对死因有异议，48 小时内提出尸检，同时封存病历",
+      "original_status": "🟡 48小时尸检窗口需结合具体法律关系"
+    },
+    {
+      "id": "c25-i005",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「政策、法规、现行」"
+      ],
+      "original_title": "注销户口有法定时限：城市在安葬前，农村在一个月以内",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c25-i006",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「政策、法规、现行」"
+      ],
+      "original_title": "殡葬服务分基础项目和非基础项目，基础项目有清单、收费依法制定",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c25-i007",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「政策、法规、现行」"
+      ],
+      "original_title": "遇到强制搭售、标价外加价、把一项拆成几项收费，记下来投诉",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c25-i008",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「政策、法规、现行」"
+      ],
+      "original_title": "殡葬代理、用品代购、策划主持这类中介，要在县级民政备案",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c25-i009",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「待核实、🟠」",
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「工伤、社保」"
+      ],
+      "original_title": "分散在各处的钱要逐个去取：公积金余额、社保待遇、工伤待遇",
+      "original_status": "🟠 部分待核实"
+    },
+    {
+      "id": "c25-i010",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「政策、法规、现行」"
+      ],
+      "original_title": "死者的账号和个人信息，近亲属可以要求查阅、复制、更正、删除",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c26-i001",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「政策、法规、现行」"
+      ],
+      "original_title": "平台不要自己收钱再转给卖家，让钱走持牌支付机构直接结算",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c26-i003",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🔵」",
+        "potentially_overstated_or_incomplete: 命中表述「过度」"
+      ],
+      "original_title": "做直播要网络文化经营许可证，做视听节目的那张证民营基本拿不到",
+      "original_status": "🔵 直播许可规则需按内容类型区分"
+    },
+    {
+      "id": "c26-i004",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「政策、法规、现行」"
+      ],
+      "original_title": "服务器放境内就要备案，接入商必须自己持有增值电信许可",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c26-i005",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「政策、法规、现行」"
+      ],
+      "original_title": "让用户上来卖东西，平台就要核验登记、报送信息、留存三年",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c26-i006",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「政策、法规、现行」"
+      ],
+      "original_title": "用户发的内容你要管：审核机制、举报入口、发现违法立即停传并报告",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c26-i008",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🔵」"
+      ],
+      "original_title": "不给未满 16 周岁的人开直播，打赏按年龄分档处理",
+      "original_status": "🔵 未成年人直播/打赏规则处于多规范衔接期"
+    },
+    {
+      "id": "c26-i010",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「出境」"
+      ],
+      "original_title": "用户信息不要随手放到境外，出境有法定条件和人数门槛",
+      "original_status": "✅ 个人信息出境有法定路径"
+    },
+    {
+      "id": "c27-i002",
+      "reasons": [
+        "dynamic_policy_number: 涉及具体政策领域出现日期、金额、比例或期限数字「13 周」",
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「政策、法规、现行」"
+      ],
+      "original_title": "孕 13 周前去社区卫生服务中心建《母子健康手册》，把免费产检额度用掉",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c27-i003",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「政策、法规、现行」"
+      ],
+      "original_title": "第一次产检就把艾滋病、梅毒、乙肝三项查掉，查出来也有免费的阻断",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c27-i004",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「政策、法规、现行」"
+      ],
+      "original_title": "整个孕期一支烟一口酒都不要，家里人也别在屋里抽",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c27-i007",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「政策、法规、现行」"
+      ],
+      "original_title": "背下这张「立刻去医院」的清单，孕期和产后一年内都算数",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c27-i008",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🔴」",
+        "potentially_overstated_or_incomplete: 命中表述「误导、过度」"
+      ],
+      "original_title": "破水了就地平躺、垫高臀部、打 120，不要走动也不要洗澡",
+      "original_status": "🔴 “破水就垫高臀部平躺不走动”过度且可能误导"
+    },
+    {
+      "id": "c27-i011",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「政策、法规、现行」"
+      ],
+      "original_title": "怀孕前就确认生育保险的参保状态，未就业的配偶也能报生育医疗费用",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c27-i012",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「政策、法规、现行」"
+      ],
+      "original_title": "出院前把《出生医学证明》办掉，名字提前想好、别写错字",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c27-i013",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「政策、法规、现行」"
+      ],
+      "original_title": "新生儿足跟血筛查和听力筛查都别拒绝",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c27-i014",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「医保、政策、法规、现行」"
+      ],
+      "original_title": "拿到出生医学证明就给孩子办居民医保，别等落完户",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c27-i015",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「政策、法规、现行」"
+      ],
+      "original_title": "孩子出生后一个月以内去派出所申报出生登记",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c27-i016",
+      "reasons": [
+        "dynamic_policy_number: 涉及具体政策领域出现日期、金额、比例或期限数字「42 天」",
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「政策、法规、现行」"
+      ],
+      "original_title": "产后 42 天那次复查别跳过，它同时是产后抑郁的筛查",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c28-i001",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🔵」",
+        "potentially_overstated_or_incomplete: 命中表述「过度」"
+      ],
+      "original_title": "不要用极端节食、断食或催吐来控制体重，要减就从运动那一侧减",
+      "original_status": "🔵 “减重从运动那一侧减”过度"
+    },
+    {
+      "id": "c29-i003",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「医保」"
+      ],
+      "original_title": "失业之后先把作息、医保和找工作的节奏固定下来，别整天待在家里",
+      "original_status": "🟡 失业与心理/死亡风险相关，干预动作部分是经验"
+    },
+    {
+      "id": "c29-i010",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「医保」"
+      ],
+      "original_title": "分居离婚之后别断医保、别用酒顶着",
+      "original_status": "✅/🟡 研究支持"
+    },
+    {
+      "id": "c29-i013",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🔴」",
+        "potentially_overstated_or_incomplete: 命中表述「不完整」",
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「工伤」"
+      ],
+      "original_title": "别拿死当还债的办法：两年内的寿险不赔，工伤不认，债照样先从遗产里扣",
+      "original_status": "🔴 “两年内寿险不赔”表述不完整"
+    },
+    {
+      "id": "c30-i004",
+      "reasons": [
+        "potentially_overstated_or_incomplete: 命中表述「过度」"
+      ],
+      "original_title": "让孩子每天在户外待够 2 小时，这是目前唯一有随机试验支持的防近视办法",
+      "original_status": "🟡 户外防近视有RCT支持，但“唯一”过度"
+    },
+    {
+      "id": "c30-i009",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🔵」",
+        "potentially_overstated_or_incomplete: 命中表述「不是全国」",
+        "dynamic_policy_number: 涉及具体政策领域出现日期、金额、比例或期限数字「1 年、1年」"
+      ],
+      "original_title": "孩子撑不住了可以休学，学籍学校必须给他留着，最长 1 年",
+      "original_status": "🔵 “休学最长1年”不是全国统一"
+    },
+    {
+      "id": "c31-i001",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「政策、法律」"
+      ],
+      "original_title": "先把门槛对一遍：十二条路的年龄和学历要求都是明文写死的",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c31-i002",
+      "reasons": [
+        "dynamic_policy_number: 涉及具体政策领域出现日期、金额、比例或期限数字「10 月、31 日」"
+      ],
+      "original_title": "十八岁那年 10 月 31 日前要做兵役登记；义务兵服现役就是两年",
+      "original_status": "🟡 兵役登记义务真实，日期和对象需按年度通知"
+    },
+    {
+      "id": "c31-i003",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「出境、地方」"
+      ],
+      "original_title": "应征之后拒服兵役，两年内不准出境或升学复学，还进不了公务员和国企",
+      "original_status": "🟡 拒服兵役有严重惩戒，但具体措施依违法类型"
+    },
+    {
+      "id": "c31-i004",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「待核实、🟠」",
+        "dynamic_policy_number: 涉及具体政策领域出现日期、金额、比例或期限数字「20000 元」",
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「政策、每年、调整」"
+      ],
+      "original_title": "大学生当兵最实的两块：学费每年补最高 20000 元，学籍保留两年、考研有专项计划",
+      "original_status": "🟠 部分政策文件待核实"
+    },
+    {
+      "id": "c31-i005",
+      "reasons": [
+        "dynamic_policy_number: 涉及具体政策领域出现日期、金额、比例或期限数字「30 日」",
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「政策、法律」"
+      ],
+      "original_title": "退役后只有六种情况由政府安排工作；自主就业的 30 日内必须报到",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c31-i006",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「待核实、🟠」",
+        "dynamic_policy_number: 涉及具体政策领域出现日期、金额、比例或期限数字「20000 元」",
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「政策、每年」"
+      ],
+      "original_title": "退役后的三笔账：一次性退役金、军龄算工龄、自己干每年扣减 20000 元税",
+      "original_status": "🟠 部分待核实"
+    },
+    {
+      "id": "c31-i007",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🔴」",
+        "dynamic_policy_number: 涉及具体政策领域出现日期、金额、比例或期限数字「10%」",
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「地方、政策、每年」"
+      ],
+      "original_title": "想进体制内不止考公一条：基层服务项目干满两年，能报每年 10% 的定向考录计划",
+      "original_status": "🔴 “每年10%定向考录计划”不是长期统一比例"
+    },
+    {
+      "id": "c31-i009",
+      "reasons": [
+        "legacy_or_unverified_status: 命中表述「🔵」"
+      ],
+      "original_title": "消防员和军队文职是另外两个公开招录的口子，门槛比考公低",
+      "original_status": "🔵 “门槛比考公低”是评价性结论"
+    },
+    {
+      "id": "c31-i010",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「政策」"
+      ],
+      "original_title": "学历不是一锤子买卖：自考不限年龄和已受教育程度，成人高考和开放大学都能补",
+      "original_status": "🟡 继续教育通道可信，具体招生条件动态"
+    },
+    {
+      "id": "c31-i012",
+      "reasons": [
+        "dynamic_policy_number: 涉及具体政策领域出现日期、金额、比例或期限数字「2026-07」"
+      ],
+      "original_title": "送外卖、跑网约车、拉同城货运，平台按单给你交职业伤害保障费，自己不缴",
+      "original_status": "✅ 2026-07-01后职业伤害保障全国扩围"
+    },
+    {
+      "id": "c31-i014",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「政策、法律」"
+      ],
+      "original_title": "想出国打工，先查这家公司有没有对外劳务合作经营资格：它不得向你收押金",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c31-i015",
+      "reasons": [
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「政策、法律」"
+      ],
+      "original_title": "在家给境外公司远程干活，这笔钱在税法上算境内所得：个税自己报，收汇走「职工报酬」",
+      "original_status": "✅ 核心规则可信"
+    },
+    {
+      "id": "c31-i016",
+      "reasons": [
+        "dynamic_policy_number: 涉及具体政策领域出现日期、金额、比例或期限数字「30 万、30万」",
+        "dynamic_policy_cue: 涉及具体政策领域包含时效提示「政策、调整」"
+      ],
+      "original_title": "不进单位自己干，起步钱先看创业担保贷款：个人最高 30 万、财政贴一半利息",
+      "original_status": "🟡 创业担保贷款额度与贴息是动态政策"
+    },
+    {
+      "id": "c32-i002",
+      "reasons": [
+        "dynamic_policy_number: 动态政策主题章节出现日期、金额、比例或期限数字「15 日、2026 年、30 天、30天、4年、60天、9 月」",
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「签证」"
+      ],
+      "original_title": "美国 2026 年 9 月 15 日起改了规矩：F-1 学生签证不再是「读完为止」，最长四年，读完 30 天内走",
+      "original_status": "🟡 新规核心正确，但必须写清过渡期"
+    },
+    {
+      "id": "c32-i003",
+      "reasons": [
+        "dynamic_policy_number: 动态政策主题章节出现日期、金额、比例或期限数字「1小时」",
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「现行、签证」"
+      ],
+      "original_title": "打工时数是四国都写死的红线，超一小时就是违反签证条件",
+      "original_status": "🟡 各国工时限制可信，但“超1小时就一定立即违法”过于机械"
+    },
+    {
+      "id": "c32-i004",
+      "reasons": [
+        "potentially_overstated_or_incomplete: 命中表述「不能一概」"
+      ],
+      "original_title": "身份的根是「全日制在读」：休学、退学、转学空档期一律不能打工",
+      "original_status": "🟡 全日制身份是核心，但“空档期一律不能打工”有例外"
+    },
+    {
+      "id": "c32-i005",
+      "reasons": [
+        "dynamic_policy_number: 动态政策主题章节出现日期、金额、比例或期限数字「10 天、10日」",
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「更新」"
+      ],
+      "original_title": "美国：搬家后 10 天内必须报新地址",
+      "original_status": "✅ 美国地址变更10日规则可信"
+    },
+    {
+      "id": "c32-i007",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「入境、签证」"
+      ],
+      "original_title": "澳大利亚：OSHC 必须覆盖全程且中间不能断，落地拿不出保险可能被拒绝入境",
+      "original_status": "✅ 澳大利亚OSHC全程覆盖要求可信"
+    },
+    {
+      "id": "c32-i008",
+      "reasons": [
+        "dynamic_policy_number: 动态政策主题章节出现日期、金额、比例或期限数字「2026-09、776 英镑」",
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「截至、每年、签证」"
+      ],
+      "original_title": "英国：签证费之外还有一笔按年收的医疗附加费，学生每年 776 英镑，申请时一次付清",
+      "original_status": "✅ 英国学生IHS £776/年已核验"
+    },
+    {
+      "id": "c32-i009",
+      "reasons": [
+        "dynamic_policy_number: 动态政策主题章节出现日期、金额、比例或期限数字「20 个工作日、20个工作日、20日」"
+      ],
+      "original_title": "回国前留出认证时间：留服认证要 10 到 20 个工作日",
+      "original_status": "🟡 认证处理时长并非刚性10–20个工作日"
+    },
+    {
+      "id": "c32-i010",
+      "reasons": [
+        "dynamic_policy_cue: 动态政策主题章节包含时效提示「每年」"
+      ],
+      "original_title": "认证被「加强审查」的学校每年都在加，花钱买文凭这条路已经走不通",
+      "original_status": "🟡 加强审查真实，但“买文凭已走不通”是结论性表述"
+    }
+  ]
+}
