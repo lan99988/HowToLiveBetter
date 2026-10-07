@@ -37,6 +37,9 @@ class HandbookTests(unittest.TestCase):
         payload = '</script><img src=x onerror=alert(1)> & 测试\u2028'
         data['items'][0]['original_title'] = payload
         generated = build.outputs(data)['index.html']
+        static = generated.split('<script id="handbook-data"')[0]
+        self.assertNotIn('<img src=x', static)
+        self.assertIn(build.html.escape(payload, quote=True), static)
         raw = re.search(r'<script id="handbook-data" type="application/json">(.*?)</script>', generated, re.S).group(1)
         self.assertNotIn('</script>', raw)
         self.assertNotIn('<img', raw)
@@ -45,7 +48,20 @@ class HandbookTests(unittest.TestCase):
     def test_status_is_explicit_not_emoji_substring(self):
         self.assertTrue(all(r['status'] in build.STATUS for r in self.data['items']))
         self.assertNotIn('audit_status.includes', self.generated['index.html'])
-        self.assertIn('row.r.status===status', self.generated['index.html'])
+        self.assertNotIn('id="search"', self.generated['index.html'])
+        for code in build.STATUS:
+            self.assertEqual(self.generated['index.html'].count(f'class="status {code}"'),
+                             sum(r['status'] == code for r in self.data['items']))
+
+    def test_full_text_is_static_and_never_collapsed(self):
+        page = self.generated['index.html'].split('<script id="handbook-data"')[0]
+        self.assertEqual(page.count('<article class="entry"'), 552)
+        self.assertEqual(page.count('<section class="chapter"'), 32)
+        self.assertNotIn('<details class="entry-details"', page)
+        self.assertNotIn('@@', page)
+        for row in self.data['items']:
+            self.assertIn(build.html.escape(row['original_title'], quote=True), page)
+            self.assertIn(build.html.escape(row['summary'], quote=True), page)
 
     def test_no_network_runtime_assets(self):
         page = self.generated['index.html']
